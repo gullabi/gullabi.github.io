@@ -33,6 +33,8 @@ Their exotic, magnetic subtypes are of interest for understanding the complex fl
 * Külebi, B.; Kalirai, J.; Jordan, S.; Euchner, F., 2013, _The progenitors of magnetic white dwarfs in open clusters_, Astronomy & Astrophysics, V 554, id.A18, DOI: [10.1051/0004-6361/201218842][astro02]
 * Külebi, B.; Jordan, S.; Euchner, F.; Gänsicke, B. T.; Hirsch, H., 2009, _Analysis of hydrogen-rich magnetic white dwarfs detected in the Sloan Digital Sky Survey_, Astronomy and Astrophysics, V. 506, I. 3, 1341-1350, DOI: [10.1051/0004-6361/200912570][astro03].
 
+For all of my articles and collaborations you can check [NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/search/q=K%C3%BClebi%2C%20Baybars&sort=date%20desc%2C%20bibcode%20desc).
+
 [coop]: https://collectivat.cat
 [asr01]: http://dx.doi.org/10.21437/IberSPEECH.2018-6
 [astro01]: https://academic.oup.com/mnras/article/431/3/2778/1751349

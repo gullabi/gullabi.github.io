@@ -5,5 +5,5 @@ slug: podcast
 menu: true
 order: 1
 description: >
-  Here are the podcasts in Turkish
+  _Güllabi ile Kültür Fizik_ kayıtları, zaman zaman bilim tarihi, zaman zaman sosyal hareketler, zaman zaman da garip tarihsel ayrıntıları üzerine.
 ---
