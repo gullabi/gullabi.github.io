@@ -1,15 +1,18 @@
 ---
 layout: post
-title: İlk podcast
+title: İlahiyatçılar için Astronomi
+image: /assets/img/blog/poster.png
 description: >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme,
-  stolen by [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  Türkiye'de düz dünyacılık mümkün mü? Orta Çağ İslam ilahiyatçılarına sordum.
 excerpt_separator: <!--more-->
 ---
 
-Unlike Hyde, Hydejack is very opinionated about how you are going to use it.
+Bu ilk podcast kaydımda, antik yunandan Kopernik'e uzanan astronomi kozmoloji tarihindeki eksik basamaktan, yani İslam orta çağından bahsediyorum.
+Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tutarsızlıkları (Tahafütü'l Felasife).
 
+<!--more-->
+
+Başka bir şeyler
 
 <audio controls>
  <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3"

@@ -8,17 +8,16 @@ author:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Eski astrofizikçi, yeni bilişimci. Daha çok bilgi için [şurası](/about)
+    ve [şurası](/science).
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/icons/kelle.png
+    path:            /assets/icons/icon.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/icons/kelle.png
-      2x:            /assets/icons/kelle_lg.png
+      1x:            /assets/icons/icon.png
+      2x:            /assets/icons/icon@x2.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
