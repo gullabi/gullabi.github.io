@@ -7,22 +7,13 @@ description: >
 excerpt_separator: <!--more-->
 ---
 
-Bu ilk podcast kaydımda, antik yunandan Kopernik'e uzanan astronomi kozmoloji tarihindeki eksik basamaktan, yani İslam orta çağından bahsediyorum.
-Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tutarsızlıkları (Tahafütü el-Felasife).
+Bu ilk podcast kaydımda, Antik Yunan'dan Kopernik'e uzanan astronomi tarihindeki eksik basamaktan, yani İslam orta çağından bahsediyorum.
+Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tutarsızlıkları (Tahafüt el-Felasife).
 
 <!--more-->
 
-Kaydı doğrudan [buradan][cloud] indirebilirsiniz ya da doğrudan burada dinleyebilirsiniz.
+Kaydı [buradan][cloud] indirebilirsiniz ya da doğrudan aşağıdaki çal tuşuna basarak dinleyebilirsiniz.
 
-<audio controls>
- <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3"
-         type='audio/mp3'>
- <!-- The next two lines are only executed if the browser doesn't support MP4 files -->
- <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.ogg"
-         type='audio/ogg; codecs=vorbis'>
- <!-- The next line will only be executed if the browser doesn't support the <audio> tag-->
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
 
 # Notlar
 
@@ -74,6 +65,16 @@ kıble yönünün batı-kuzey batı yönünde olmasından kaynaklanıyor.
 
 ![](/assets/img/podcast/bolum01/diyanet_shat.png)
 ![](/assets/img/podcast/bolum01/google_shat02.jpg)
+
+<audio controls>
+ <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3"
+         type='audio/mp3'>
+ <!-- The next two lines are only executed if the browser doesn't support MP4 files -->
+ <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.ogg"
+         type='audio/ogg; codecs=vorbis'>
+ <!-- The next line will only be executed if the browser doesn't support the <audio> tag-->
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 [cloud]: https://cloud.laklak.eu/s/2sLR6yLBFkg4bYt
 [dapp]: https://namazvakitleri.diyanet.gov.tr/tr-TR/kible 
