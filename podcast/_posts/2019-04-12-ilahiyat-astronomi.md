@@ -1,7 +1,7 @@
 ---
 layout: post
 title: #1 İlahiyatçılar için Astronomi
-image: /assets/img/blog/poster.png
+image: /assets/img/podcast/bolum01/poster01.jpg
 description: >
   Türkiye'de düz dünyacılık mümkün mü? Orta Çağ İslam ilahiyatçılarına sordum.
 excerpt_separator: <!--more-->
