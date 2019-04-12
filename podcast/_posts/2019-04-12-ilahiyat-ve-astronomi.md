@@ -12,7 +12,7 @@ Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tuta
 
 <!--more-->
 
-Kaydı [buradan][cloud] indirebilirsiniz ya da doğrudan aşağıdaki çal tuşuna basarak dinleyebilirsiniz.
+Kaydı [buradan][cloud] indirebilirsiniz ya da bu sayfanın en sonuna giderek çal tuşuna basarak dinleyebilirsiniz.
 
 
 # Notlar
@@ -65,6 +65,8 @@ kıble yönünün batı-kuzey batı yönünde olmasından kaynaklanıyor.
 
 ![](/assets/img/podcast/bolum01/diyanet_shat.png)
 ![](/assets/img/podcast/bolum01/google_shat02.jpg)
+
+Doğrudan dinlemek için:
 
 <audio controls>
  <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3"
