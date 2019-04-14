@@ -14,7 +14,6 @@ Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tuta
 
 Kaydı [buradan][cloud] indirebilirsiniz ya da bu sayfanın en sonuna giderek çal tuşuna basarak dinleyebilirsiniz.
 
-
 # Notlar
 
 Güllabi ile Kültür Fizik'in ilk bölümünde sosyal medyada çok konuşulan ve Türkiye'de de örgütlü olan düzdünyacılık vesilesiyle,
@@ -78,6 +77,6 @@ Doğrudan dinlemek için:
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-[cloud]: https://cloud.laklak.eu/s/2sLR6yLBFkg4bYt
+[cloud]: https://cloud.laklak.eu/s/iGXnkFRiZS8YBFx
 [dapp]: https://namazvakitleri.diyanet.gov.tr/tr-TR/kible 
 [gapp]: https://qiblafinder.withgoogle.com/intl/en/
