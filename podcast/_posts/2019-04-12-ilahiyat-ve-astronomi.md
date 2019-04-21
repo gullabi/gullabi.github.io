@@ -18,8 +18,7 @@ Kaydı [buradan][cloud] indirebilirsiniz ya da hemen aşağıda çal tuşuna bas
   <audio id="player" controls>
     <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3" type="audio/mp3" />
     <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.ogg" type="audio/ogg" />
-  <!-- The next line will only be executed if the browser doesn't support the <audio> tag-->
-  <p>Your user agent does not support the HTML5 Audio element.</p>
+    Your user agent does not support the HTML5 Audio element.
   </audio>
 </div>
 
