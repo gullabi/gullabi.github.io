@@ -12,12 +12,16 @@ Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tuta
 
 <!--more-->
 
-Kaydı [buradan][cloud] indirebilirsiniz ya da bu sayfanın en sonuna giderek çal tuşuna basarak dinleyebilirsiniz.
+Kaydı [buradan][cloud] indirebilirsiniz ya da hemen aşağıda çal tuşuna basarak dinleyebilirsiniz.
 
-<audio id="player" controls>
+<div class="container">
+  <audio id="player" controls>
     <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3" type="audio/mp3" />
     <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.ogg" type="audio/ogg" />
-</audio>
+  <!-- The next line will only be executed if the browser doesn't support the <audio> tag-->
+  <p>Your user agent does not support the HTML5 Audio element.</p>
+  </audio>
+</div>
 
 # Notlar
 
@@ -69,18 +73,6 @@ kıble yönünün batı-kuzey batı yönünde olmasından kaynaklanıyor.
 
 ![](/assets/img/podcast/bolum01/diyanet_shat.png)
 ![](/assets/img/podcast/bolum01/google_shat02.jpg)
-
-Doğrudan dinlemek için:
-
-<audio controls="">
- <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3"
-         type='audio/mp3'>
- <!-- The next two lines are only executed if the browser doesn't support MP4 files -->
- <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.ogg"
-         type='audio/ogg; codecs=vorbis'>
- <!-- The next line will only be executed if the browser doesn't support the <audio> tag-->
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
 
 [cloud]: https://cloud.laklak.eu/s/iGXnkFRiZS8YBFx
 [dapp]: https://namazvakitleri.diyanet.gov.tr/tr-TR/kible 
