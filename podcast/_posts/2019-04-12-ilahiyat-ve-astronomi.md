@@ -14,6 +14,11 @@ Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tuta
 
 Kaydı [buradan][cloud] indirebilirsiniz ya da bu sayfanın en sonuna giderek çal tuşuna basarak dinleyebilirsiniz.
 
+<audio id="player" controls>
+    <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3" type="audio/mp3" />
+    <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.ogg" type="audio/ogg" />
+</audio>
+
 # Notlar
 
 Güllabi ile Kültür Fizik'in ilk bölümünde sosyal medyada çok konuşulan ve Türkiye'de de örgütlü olan düzdünyacılık vesilesiyle,
@@ -67,7 +72,7 @@ kıble yönünün batı-kuzey batı yönünde olmasından kaynaklanıyor.
 
 Doğrudan dinlemek için:
 
-<audio controls>
+<audio controls="">
  <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3"
          type='audio/mp3'>
  <!-- The next two lines are only executed if the browser doesn't support MP4 files -->
