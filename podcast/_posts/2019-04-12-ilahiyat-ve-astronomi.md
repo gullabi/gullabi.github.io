@@ -14,13 +14,7 @@ Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tuta
 
 Kaydı [buradan][cloud] indirebilirsiniz ya da hemen aşağıda çal tuşuna basarak dinleyebilirsiniz.
 
-<div class="container">
-  <audio id="player" controls>
-    <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.mp3" type="audio/mp3" />
-    <source src="http://laklak.eu/share/gullabi_kulturfizik01_20190401.ogg" type="audio/ogg" />
-    Your user agent does not support the HTML5 Audio element.
-  </audio>
-</div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619108851&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 # Notlar
 
