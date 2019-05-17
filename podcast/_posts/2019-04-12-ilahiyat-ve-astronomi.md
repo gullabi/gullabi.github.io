@@ -10,11 +10,11 @@ excerpt_separator: <!--more-->
 Bu ilk podcast kaydımda, Antik Yunan'dan Kopernik'e uzanan astronomi tarihindeki eksik basamaktan, yani İslam orta çağından bahsediyorum.
 Temel kaynağım ise beklenmedik bir yerden, İmam Gazali'nin Filozofların Tutarsızlıkları (Tehafüt el-Felasife).
 
-<!--more-->
-
-Kaydı [buradan][cloud] indirebilirsiniz ya da hemen aşağıda çal tuşuna basarak dinleyebilirsiniz.
+Kaydı [buradan][cloud] indirebilirsiniz ya da aşağıdan dinleyebilirsiniz:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619108851&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<!--more-->
 
 # Notlar
 
