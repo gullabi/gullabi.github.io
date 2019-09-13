@@ -13,9 +13,10 @@ tartışmalı kitabı, Şeytan Ayetleri.
 
 Bu bölüm üç ayrı kayıttan oluşuyor:
 
-* Şeytan Ayetleri: Kimsenin okumadığı kitap
+* Kimsenin Okumadığı Kitap
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/677676732&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-* İlahiyat ve meşruiyet
+* Siyaset ve Meşruiyet
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680489993&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 * Şeytan Ayetleri ve Türkiye
 
 Kayıtları [buradan][cloud] indirebilirsiniz ya da aşağıdan dinleyebilirsiniz: 
