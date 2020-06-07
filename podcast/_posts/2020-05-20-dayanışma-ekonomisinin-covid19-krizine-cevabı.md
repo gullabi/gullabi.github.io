@@ -3,7 +3,7 @@ layout: post
 title: #4 İspanya'da dayanışma ekonomisinin Covid19 krizine cevabı
 image: /assets/img/podcast/bolum06/poster06.png
 description: >
-  Kooperatifçilik ve genel anlamda dayanışma ekonomisi, Covid19 nedeniyle yaşanan krize İspanya'da nasıl cevap veriyor, ve genel anlamda dayanışma ekonomisinin geleneksel ekonomiye nasıl bir alternatif sunduğunu konuştum.
+  Kooperatifçilik ve genel anlamda dayanışma ekonomisi, Covid19 nedeniyle yaşanan krize İspanya'da nasıl cevap veriyor.
 excerpt_separator: <!--more-->
 ---
 
