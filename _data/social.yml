@@ -202,3 +202,10 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+# hack to add language selection currently not used
+en:
+  name: English
+  icon: icon-genderless
+tr:
+  name: Türkçe
+  icon: icon-genderless

@@ -1,0 +1,13 @@
+<span class="sr-only">{{ site.data.strings.languages | default:"Languages" }}{{ site.data.strings.colon }}</span>
+<ul>
+  {% if include.author.languages %}
+    {% for link in include.author.languages %}
+      <li>
+        <a href="{{ site.baseurl }}/{{ link.first }}/" title="{{ link.last }}" class="no-mark-external" onclick="window.location.assign({{ site.baseurl }}/{{ link.first }}/)">
+          <span> {{ link.first }} </span>
+          <span class="sr-only">{{ link.last }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  {% endif %}
+</ul>

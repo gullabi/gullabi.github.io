@@ -1,22 +1,10 @@
 ---
 image: /assets/icons/kelle_lg.png
-lang: en
+lang: tr
+permalink: hakkında
 ---
 
-# About
-
-### English
-
-I am a data scientist and one of the co-founders of the workers collective [Col·lectivaT][coop].
-Currently I work mostly on speech technologies and natural language processing.
-Here you can find further information about my current and past
-[scientific work][science] and my appearences in the [media][in-media] in the 
-article or interview format.
-
-I also do [podcasts](/podcast) (in Turkish) about history of science and social movements.
-
----
-### Türkçe
+# Hakkında
 
 Ben bir veri araştırmacısı ve işçi kooperatifi [Col·lectivaT][coop]'ın kurucularından biriyim.
 Bu aralar ana çalışma alanım konuşma teknolojileri ve doğal dil işleme.
@@ -26,7 +14,6 @@ hem de [medyada][in-media] makale ya da mülakat olarak yayınlanmış içerikle
 Aynı zamanda bilim tarihiyle ve sosyal hareketlerle ilgili [podcast][podcast] kayıtlarım da burada mevcut.
 
 Sitenin çoklu dil altyapısı kurulma aşamasında olduğu şu an içeriklerin neredeyse tümü İngilizce. Yakında Türkçeleri de yayınlacak
-{:.message}
 
 [coop]: https://collectivat.cat
 [science]: /science/

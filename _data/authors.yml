@@ -61,6 +61,9 @@ author:
     # stumbleupon:     <username>
     # paypal:          <username>
     # download:        <url>
+  languages:
+    en:              en
+    tr:              tr
 
 # Another author (optional)
 #author2:
