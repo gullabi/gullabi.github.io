@@ -1,5 +1,7 @@
 ---
 title: Müşterek Bir Kent İçin Belediyeleri Kazanmak
+lang: tr
+categories: tr
 description: >
  Katalanca “kazanalım” anlamına gelen “Guanyem” ismiyle Barselona'da başlayan bu yerel yönetimci hareketler nasıl ortaya çıktı ve İspanya'da politik değişim için sahip oldukları potansiyel tam olarak ne? 
 ---

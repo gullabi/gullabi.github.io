@@ -1,12 +1,14 @@
 ---
 description: >
-  I have a PhD in Astrophysics and currently I work on speech technologies. You can find an outline of my academic contributions here.
+  Astrofizik konusunda doktora ve doktora sonrası çalışmalar yapmamın ardından şu an dil teknolojileri üzerine çalışıyorum. You can find an outline of my academic contributions here.
+lang: tr
 hide_description: true
-permalink: /science/
+permalink: /bilim/
 ---
 
 # Academic overview
 
+tr.
 I have a PhD from University of Heidelberg, and worked as a researcher for six years before leaving academia to work as a developer.
 Currently I work as a data scientist and tech lead in the workers cooperative [Col·lectivaT][coop].
 For more details you can take a look at my [CV](/assets/bkulebi_cv_en.pdf).

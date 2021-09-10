@@ -2,6 +2,7 @@
 layout: list
 title: In Media
 slug: in-media
+lang: en
 menu: true
 order: 2
 description: >

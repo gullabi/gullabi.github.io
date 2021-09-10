@@ -2,6 +2,7 @@
 layout: list
 title: Podcast
 slug: podcast
+lang: tr
 menu: true
 order: 1
 description: >

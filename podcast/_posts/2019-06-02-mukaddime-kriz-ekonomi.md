@@ -1,6 +1,8 @@
 ---
 layout: post
 title: #2 İbn Haldun'un Mukaddimesinde Kriz ve Ekonomi
+lang: tr
+categories: tr
 image: /assets/img/podcast/bolum02/poster02.jpg
 description: >
   İbn Haldun düşüncesinin bugün de hala geçerliliği devam ediyor mu, Ozan Sağsözle konuştuk.

@@ -1,5 +1,7 @@
 ---
 title: Devletin Resmi Pornografisi
+lang: tr
+categories: tr
 description: >
  Müstehcenlik ve pornografi milli duyguları harekete geçirmek için kullanıldığında, okullarda okutulması sadece kabul edilebilir değil, okutulması gerekli. 
 ---

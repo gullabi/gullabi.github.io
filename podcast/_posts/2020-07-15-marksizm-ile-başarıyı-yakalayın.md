@@ -1,6 +1,8 @@
 ---
 layout: post
 title: #5 Marksizm ile iş hayatınızda başarıyı yakalayın
+lang: tr
+categories: tr
 image: /assets/img/podcast/bolum07/poster07.png
 description: >
   Kovid günlerinde, iş yerinde direniş için ihtiyaç duyduğunuz bütün temel kavramlar.

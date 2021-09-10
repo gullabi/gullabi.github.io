@@ -1,5 +1,6 @@
 ---
 image: /assets/icons/kelle_lg.png
+lang: en
 ---
 
 # About

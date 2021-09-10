@@ -1,6 +1,8 @@
 ---
 layout: post
 title: #3 Kimsenin okumadığı kitap: Şeytan Ayetleri
+lang: tr
+categories: tr
 image: /assets/img/podcast/bolum03/poster03.jpg
 description: >
   Salman Rüşdi'nin Şeytan Ayetleri kitabının edebi içeriği ve siyasi tarihi

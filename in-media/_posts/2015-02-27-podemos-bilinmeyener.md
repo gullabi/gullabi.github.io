@@ -1,5 +1,7 @@
 ---
 title: Podemos Hakkında Bilinmeyenler
+lang: tr
+categories: tr
 description: >
  Podemos'un asıl başarısı, ülkesinin yakın geçmişindeki sokak hareketi deneyim birikimini doğru ve etkili bir şekilde parlamentarist mücadeleye katabilmiş olması. 
 ---
