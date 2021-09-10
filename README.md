@@ -136,7 +136,10 @@ This table below shows what's included in each version:
 | Price                  | Free           | $59      |
 | | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]][nfy] | [**Buy PRO**][buy] |
 
-
+## Personal notes
+* Uses jekyll-paginate-2
+* Multilang
+* Github actions from [here][actions].
 
 
 [^1]: You MAY open an issue on GitHub, but no response and/or fix is guaranteed.
@@ -150,6 +153,7 @@ This table below shows what's included in each version:
 [download]: https://hydejack.com/download/
 [welcome]: https://hydejack.com/
 [forms]: https://hydejack.com/forms-by-example/
+[actions]: https://milanaryal.com.np/deploying-jekyll-sites-to-github-pages-using-github-actions/
 
 [features]: #features
 [news]: #build-an-audience
