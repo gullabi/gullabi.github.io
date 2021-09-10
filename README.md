@@ -1,6 +1,6 @@
 # Hydejack
 
-The "Best Jekyll Theme by a Mile".
+Personal version of the "Best Jekyll Theme by a Mile".
 
 
 ![Screenshot](assets/img/blog/hydejack-8.png)
