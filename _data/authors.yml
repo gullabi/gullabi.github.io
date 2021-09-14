@@ -34,8 +34,8 @@ author:
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
-    # soundcloud:      <username>
-    # lastfm:          <username>
+    soundcloud:      gullabi
+    # lastfm:          <usernae>
     # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
@@ -43,7 +43,7 @@ author:
     # behance:         <username>
     # deviantart:      <username>
     # ello:            <username>
-    # twitch:          <username>
+    twitch:          gullabi
     # steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
