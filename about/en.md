@@ -1,7 +1,7 @@
 ---
 image: /assets/icons/kelle_lg.png
 lang: en
-permalink: about
+permalink: /about/
 ---
 
 # About

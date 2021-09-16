@@ -1,7 +1,7 @@
 ---
 image: /assets/icons/kelle_lg.png
 lang: tr
-permalink: hakkında
+permalink: /hakkında/
 ---
 
 # Hakkında
