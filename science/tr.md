@@ -15,6 +15,7 @@ Astrofizik konusunda Heidelberg Üniversitesinde doktora yaptım. Toplamda altı
 [Col·lectivat](https://collectivat.cat)'taki işimin önemli bir kısmı da dil teknolojilerini hem bilişimciler hem de genel halk için daha erişilebilir hale getirmek. Katalan Hükümeti'nin (Generalitat) desteğiyle, halka açık kaynaklardan derleyerek 520 saatten fazla Katalanca konuşma külliyatı oluşturduk. Tüm veriler, dil modelleri ve akustik modeller [web sitemizde](https://collectivat.cat/asr) açık lisanslarla indirilebilir. 
 
 ### İlgili makaleler
+ * Külebi, B., Öktem, A., Peiró-Lilja, A., Pascual, S., Farrús, M., 2020, _CATOTRON — A Neural Text-to-Speech System in Catalan_, Proc. Interspeech 2020, 490-491, [link](https://www.isca-speech.org/archive/interspeech_2020/kulebi20_interspeech.html)
  * Külebi, B.; Öktem, A., 2018, _Building an Open Source Automatic Speech Recognition System for Catalan_, Proc. IberSPEECH 2018, 25-29, DOI: [10.21437/IberSPEECH.2018-6][asr01].
 
 ## Astrofizik

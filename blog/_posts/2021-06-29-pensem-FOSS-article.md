@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The differentiating factor for Catalan: the free and open source software community'
+title: 'The differentiating factor for Catalan: the free and open software community'
 lang: en
 category: en
 image:
@@ -8,7 +8,7 @@ description: I have written about the importance of open technologies and commun
 excerpt_separator: <!--more-->
 ---
 
-I have written an article. Here is a (bad) translation of it.
+The online publication Pensem, invited experts to write a series of articles with the topic ["Catalan, in the digital world."](https://www-pensem-cat.translate.goog/grans/temes/1474/dossier-catala-al-mon-digital?_x_tr_sl=ca&_x_tr_tl=en) I was fortunate enough to be asked also and I have written [an article](https://www.pensem.cat/noticia/226/fet-diferencial-catala-la-comunitat-programari-lliure-obert) concerning the importance of free software and the efforts of the open source community specifically within the field of language technologies. Here is an English translation of it, I apologize ahead of time for the possible mistakes.
 
 <img alt="" width="65%" src="https://dades.grupnaciodigital.cat/redaccio/arxius/imatges/202106/1200_1623063389capcalera-catala-mon-digital_1290.jpg.jpg" >
 <!--more-->
@@ -56,7 +56,7 @@ After talking about large multinational companies (or GAFAM; Google, Amazon, Fac
 When we talk about 'technological sovereignty' we are generally referring to <strong>control over personal data, control over the processes or algorithms that run behind technological services and the possibility of repairing and / or modifying devices.</strong>. GAFAM products violate at least one of these principles; from the impossibility of modifying Apple devices, to the exploitation of personal data by Google to the Facebook algorithms that categorize users. In addition to these generic problems, we have another specific problem for the situation of Catalan as a minority language: 
 <strong>the decision to offer Catalan or not in the services of large companies is a prerogative of theirs.</strong>. The dependence on the will of these companies is the problem that Catalan is currently suffering. Also, even if they decide to integrate it, there is no guarantee that these services will be maintained in the future. That is, technological sovereignty not only involves control over the use of technological products, but also ensures the longevity of the technologies developed. The existence of Catalan in Spain will always imply a certain danger for its digital survival.
 
-En el context dels productes tecnològics, és evident que la dominància del castellà sobre el català és per la lògica del capital i no per un estat opressiu ni per una societat discriminatòria, tot i que una alimenta l'altra. But one of the ways to ensure the continuous proliferation of Catalan in the digital field is to have a disposition of technological sovereignty. It is undeniable that Catalan is a living language, with a considerable presence in the various media, from books to audiovisual production, and therefore has every right to take place in the digital field.
+Within the context of technological products, it is evident that the dominance of Spanish over Catalan is due to the logic of the capital and not because of an oppresive state or a discriminatory society -even if one feeds the other-. But one of the ways to ensure the continuous proliferation of Catalan in the digital field is to have a disposition of technological sovereignty. It is undeniable that Catalan is a living language, with a considerable presence in the various media, from books to audiovisual production, and therefore has every right to take place in the digital field.
 <br> 
 
 <h3>What actions should be promoted to make Catalan available in all digital services? </h3>
@@ -79,12 +79,12 @@ This strategy is important so as not to depend on large multinational companies.
 
 <br>In short, in addition to investment, it is
 <strong>necessary to assume a strategy of technological sovereignty</strong> that involves actors from the free software community and private initiatives, to public administration. Open innovation has the potential to drive local initiatives, motivate large companies and also energize the community to adopt and maintain these key technologies. Over the last 3 years, Catalan has made a fairly significant leap, however 
-<strong>we have one more step to bring the technological experience and new products to the market</strong> .
+<strong>we have one more step to bring the technological experience and new products to the market</strong>.
 <br> 
 
 <h3>References of interest:</h3> 
 <ul> 
 <li>Vosk is a free software project to make the Kaldi speech recognition engine more accessible. It is powered by Alphacephei and the main contributor is Nikolay V. Shmyrev. The models in Catalan are on their website <a href="https://translate.google.com/website?sl=auto&amp;tl=en&amp;nui=1&amp;u=https://alphacephei.com/vosk/models" target="_blank">https://alphacephei.com/vosk/models</a></li> 
-<li>Els models del motor de reconeixement de la parla entrenats per Ciaran O'Reilly estàn disponibles a <a href="https://translate.google.com/website?sl=auto&amp;tl=en&amp;nui=1&amp;u=https://huggingface.co/ccoreilly/wav2vec2-large-xlsr-catala" target="_blank">https://huggingface.co/ccoreilly/wav2vec2-large-xlsr-catala</a> i <a href="https://translate.google.com/website?sl=auto&amp;tl=en&amp;nui=1&amp;u=https://github.com/ccoreilly/wav2vec2-catala" target="_blank">https://github.com/ccoreilly/wav2vec2-catala</a></li> 
+<li>The speech recognition modes trained by Ciaran O'Reilly can be accessed here <a href="https://huggingface.co/ccoreilly/wav2vec2-large-xlsr-catala" target="_blank">https://huggingface.co/ccoreilly/wav2vec2-large-xlsr-catala</a> and <a href="https://github.com/ccoreilly/wav2vec2-catala" target="_blank">https://github.com/ccoreilly/wav2vec2-catala</a></li> 
 </ul> &nbsp; 
 

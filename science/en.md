@@ -16,7 +16,8 @@ For more details you can take a look at my [CV](/assets/bkulebi_cv_en.pdf).
 Part of my work in [Col·lectivat](https://collectivat.cat) is to make speech technologies more accessible to both developers and common public.
 With the support of the Catalan Government (Generalitat), we have created a large speech corpus of Catalan, of more than 520 hourse, scraping it from publicly available sources. All the data, language models and acoustic models are available for download with open licences in our [website](https://collectivat.cat/asr).
 
-### Relevant article
+### Relevant articles
+ * Külebi, B., Öktem, A., Peiró-Lilja, A., Pascual, S., Farrús, M., 2020, _CATOTRON — A Neural Text-to-Speech System in Catalan_, Proc. Interspeech 2020, 490-491, [link](https://www.isca-speech.org/archive/interspeech_2020/kulebi20_interspeech.html)
  * Külebi, B.; Öktem, A., 2018, _Building an Open Source Automatic Speech Recognition System for Catalan_, Proc. IberSPEECH 2018, 25-29, DOI: [10.21437/IberSPEECH.2018-6][asr01].
 
 ## Astrophysics
