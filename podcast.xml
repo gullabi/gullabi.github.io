@@ -1,0 +1,182 @@
+---
+
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="">
+    <channel>
+        <atom:link href="https://gullabi.github.io/podcast.xml" rel="self" type="application/rss+xml" />
+        <title>Baybars Külebi</title>
+        <description>Personal web page of Baybars Külebi
+</description>
+        <link>https://gullabi.github.io</link>
+        <language></language>
+        <managingEditor> ({"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"})</managingEditor>
+        <webMaster> ({"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"})</webMaster>
+        <copyright>2014-2022-08-09 09:15:44 +0000 Baybars Külebi</copyright>
+        <pubDate>Tue, 09 Aug 2022 09:15:44 +0000</pubDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:15:44 +0000</lastBuildDate>
+        <image>
+            <link>https://gullabi.github.io</link>
+            <url>https://gullabi.github.io/images/itunes.png</url>
+            <title>Baybars Külebi</title>
+        </image>
+        <itunes:subtitle>Personal web page of Baybars Külebi
+</itunes:subtitle>
+        <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+        <itunes:summary>Personal web page of Baybars Külebi
+</itunes:summary>
+        <itunes:keywords></itunes:keywords>
+        <itunes:owner>
+            <itunes:name>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:name>
+            <itunes:email></itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://gullabi.github.io/images/itunes.png" />
+        <itunes:category text="Music" />
+        <itunes:category text="Technology">
+            <itunes:category text="Podcasting" />
+        </itunes:category>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy" />
+        </itunes:category>
+        <itunes:explicit>yes</itunes:explicit>
+        
+            <item>
+                <title>Marksizm Ile Başarıyı Yakalayın</title>
+                <link>https://gullabi.github.io/podcast/tr/2020-07-15-marksizm-ile-ba%C5%9Far%C4%B1y%C4%B1-yakalay%C4%B1n/</link>
+                <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+                <description>&lt;p&gt;Bir diğer canlı periskop yayınında, Marksizm bilgisi “gerçek hayatımızda ne işe yarayacak”tan yola çıkarak iş ortamında dayanışma ve direnişten bahsetmeye çalıştım. Bu konuşma sırasında işlediğim kavramlar; emek değer teorisi, maaş duraksaması/stagnasyonu ve “sınıf.” Bunun yanında tabi ki en önemlisi güncel iş ortamından emek örgütlenme (ve örgütlenememe) anektodlarından bahsederek, bu kavramların “gerçek hayata” yansımalarından bahsetmeye çalıştım.&lt;/p&gt;
+
+&lt;p&gt;Kayıt için:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872847892&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/gullabi&quot; title=&quot;Kültür Fizik Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Kültür Fizik Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/gullabi/marksizm-ile-is-hayatinizda-basariyi-yakalayin&quot; title=&quot;Marksizm ile iş hayatınızda başarıyı yakalayın&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Marksizm ile iş hayatınızda başarıyı yakalayın&lt;/a&gt;&lt;/div&gt;
+
+</description>
+                <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2020-07-15-marksizm-ile-ba%C5%9Far%C4%B1y%C4%B1-yakalay%C4%B1n/</guid>
+                <enclosure url="http:" length="" type="audio/mp3"/>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:subtitle>Baybars Külebi: Marksizm Ile Başarıyı Yakalayın</itunes:subtitle>
+                <itunes:summary></itunes:summary>
+                <itunes:duration></itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:image href="https://gullabi.github.io/images/itunes.png" />
+                <itunes:explicit></itunes:explicit>
+                <itunes:block></itunes:block>
+            </item>
+        
+            <item>
+                <title>Dayanışma Ekonomisinin Covid19 Krizine Cevabı</title>
+                <link>https://gullabi.github.io/podcast/tr/2020-05-20-dayan%C4%B1%C5%9Fma-ekonomisinin-covid19-krizine-cevab%C4%B1/</link>
+                <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+                <description>&lt;p&gt;Periskoptaki bu ilk canlı yayınımda, İspanya kooperatifçiliğinden, genel olarak dayanışma ekonomisinin ne olduğundan ve tarihinden bahsettim. Bunun en önemli nedeni üyesi olduğum çalışma kooperatifi Col·lectivaT olarak, bu girişimlerde bizim de yer almış olmamız. Ve birinci elden bu bilgileri sizlerle paylaşmak istemiş olmam.&lt;/p&gt;
+
+&lt;p&gt;Kaydın kendisine buradan ulaşabilirsiniz:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/835913908&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/gullabi&quot; title=&quot;Kültür Fizik Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Kültür Fizik Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/gullabi/dayanisma-ekomomisinin-covid19-krizine-cevabi&quot; title=&quot;Dayanışma ekomomisinin Covid19 krizine cevabı&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Dayanışma ekomomisinin Covid19 krizine cevabı&lt;/a&gt;&lt;/div&gt;
+
+</description>
+                <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2020-05-20-dayan%C4%B1%C5%9Fma-ekonomisinin-covid19-krizine-cevab%C4%B1/</guid>
+                <enclosure url="http:" length="" type="audio/mp3"/>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:subtitle>Baybars Külebi: Dayanışma Ekonomisinin Covid19 Krizine Cevabı</itunes:subtitle>
+                <itunes:summary></itunes:summary>
+                <itunes:duration></itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:image href="https://gullabi.github.io/images/itunes.png" />
+                <itunes:explicit></itunes:explicit>
+                <itunes:block></itunes:block>
+            </item>
+        
+            <item>
+                <title>Kimsenin Okumadığı Kitap Şeytan Ayetleri</title>
+                <link>https://gullabi.github.io/podcast/tr/2019-09-07-kimsenin-okumad%C4%B1%C4%9F%C4%B1-kitap-%C5%9Eeytan-ayetleri/</link>
+                <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+                <description>&lt;p&gt;Bu kaydın konusu, yayınlanmasının üstünden 31 yıl geçmiş olmasına rağmen
+Türkiye’de yayınlanması efektif olarak yasak olan, yirminci yüzyılın en 
+tartışmalı kitabı, Şeytan Ayetleri.&lt;/p&gt;
+
+&lt;p&gt;Bu bölüm üç ayrı kayıttan oluşuyor:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kimsenin Okumadığı Kitap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/677676732&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;Siyaset ve Meşruiyet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680489993&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;Şeytan Ayetleri ve Türkiye&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691963450&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Kayıtları &lt;a href=&quot;https://cloud.laklak.eu/s/pJHYqkWfjXeTEsC&quot;&gt;buradan&lt;/a&gt; indirebilirsiniz ya da aşağıdan dinleyebilirsiniz:&lt;/p&gt;
+
+</description>
+                <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-09-07-kimsenin-okumad%C4%B1%C4%9F%C4%B1-kitap-%C5%9Eeytan-ayetleri/</guid>
+                <enclosure url="http:" length="" type="audio/mp3"/>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:subtitle>Baybars Külebi: Kimsenin Okumadığı Kitap Şeytan Ayetleri</itunes:subtitle>
+                <itunes:summary></itunes:summary>
+                <itunes:duration></itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:image href="https://gullabi.github.io/images/itunes.png" />
+                <itunes:explicit></itunes:explicit>
+                <itunes:block></itunes:block>
+            </item>
+        
+            <item>
+                <title>Mukaddime Kriz Ekonomi</title>
+                <link>https://gullabi.github.io/podcast/tr/2019-06-02-mukaddime-kriz-ekonomi/</link>
+                <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+                <description>&lt;p&gt;Bu uzun programda Kültür Sohbetlerinden Ozan Sağsöz ile kitabı “İbn Haldun’un
+Mukaddime’sinde Maişet Yolları”nı  konuştuk. İbn Haldun düşüncesinin ekonomik
+boyutlarını ayrıntılı olarak irdeleyerek, bu düşüncenin bugün de geçerliliği var
+mı, bize yol gösterdiği noktalar olabilir mi, bunları ayrıntılı olarak
+tartıştık.&lt;/p&gt;
+
+&lt;p&gt;Kaydı &lt;a href=&quot;https://cloud.laklak.eu/s/fpdjWa3nS4mf3Z3&quot;&gt;buradan&lt;/a&gt; indirebilirsiniz ya da aşağıdan dinleyebilirsiniz:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/630620316&amp;amp;color=%239c8eb9&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+</description>
+                <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-06-02-mukaddime-kriz-ekonomi/</guid>
+                <enclosure url="http:" length="" type="audio/mp3"/>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:subtitle>Baybars Külebi: Mukaddime Kriz Ekonomi</itunes:subtitle>
+                <itunes:summary></itunes:summary>
+                <itunes:duration></itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:image href="https://gullabi.github.io/images/itunes.png" />
+                <itunes:explicit></itunes:explicit>
+                <itunes:block></itunes:block>
+            </item>
+        
+            <item>
+                <title>Ilahiyat Ve Astronomi</title>
+                <link>https://gullabi.github.io/podcast/tr/2019-04-12-ilahiyat-ve-astronomi/</link>
+                <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+                <description>&lt;p&gt;Bu ilk podcast kaydımda, Antik Yunan’dan Kopernik’e uzanan astronomi tarihindeki eksik basamaktan, yani İslam orta çağından bahsediyorum.
+Temel kaynağım ise beklenmedik bir yerden, İmam Gazali’nin Filozofların Tutarsızlıkları (Tehafüt el-Felasife).&lt;/p&gt;
+
+&lt;p&gt;Kaydı &lt;a href=&quot;https://cloud.laklak.eu/s/iGXnkFRiZS8YBFx&quot;&gt;buradan&lt;/a&gt; indirebilirsiniz ya da aşağıdan dinleyebilirsiniz:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619108851&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+</description>
+                <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-04-12-ilahiyat-ve-astronomi/</guid>
+                <enclosure url="http:" length="" type="audio/mp3"/>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:subtitle>Baybars Külebi: Ilahiyat Ve Astronomi</itunes:subtitle>
+                <itunes:summary></itunes:summary>
+                <itunes:duration></itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:image href="https://gullabi.github.io/images/itunes.png" />
+                <itunes:explicit></itunes:explicit>
+                <itunes:block></itunes:block>
+            </item>
+        
+    </channel>
+</rss>
+

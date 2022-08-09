@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baybars Külebi</title>
+    <description>Personal web page of Baybars Külebi
+</description>
+    <link>https://gullabi.github.io/</link>
+    <atom:link href="https://gullabi.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Aug 2022 09:15:44 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2022 09:15:44 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>The differentiating factor for Catalan: the free and open software community</title>
+        <description>&lt;p&gt;The online publication Pensem, invited experts to write a series of articles with the topic &lt;a href=&quot;https://www-pensem-cat.translate.goog/grans/temes/1474/dossier-catala-al-mon-digital?_x_tr_sl=ca&amp;amp;_x_tr_tl=en&quot;&gt;“Catalan, in the digital world.”&lt;/a&gt; I was fortunate enough to be asked also and I have written &lt;a href=&quot;https://www.pensem.cat/noticia/226/fet-diferencial-catala-la-comunitat-programari-lliure-obert&quot;&gt;an article&lt;/a&gt; concerning the importance of free software and the efforts of the open source community specifically within the field of language technologies. Here is an English translation of it, I apologize ahead of time for the possible mistakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; width=&quot;65%&quot; src=&quot;https://dades.grupnaciodigital.cat/redaccio/arxius/imatges/202106/1200_1623063389capcalera-catala-mon-digital_1290.jpg.jpg&quot; /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;For many years, various entities have been promoting the inclusion of Catalan in market products. The 
+&lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://www.plataforma-llengua.cat/que-fem/noticies/4701/denunciem-que-les-versions-doblades-o-subtitulades-en-catala-amb-diners-publics-no-arriben-a-netflix&quot; target=&quot;_blank&quot;&gt;efforts&lt;/a&gt; of the Platform for Language (Plataforma per la Llengua) are not only invaluable but also give us a memory of this struggle. One of the battles of this struggle is the inclusion of Catalan in digital products. The reason for the acceleration of activities in this direction is related to the important innovations in language technologies of the last five years. With the proliferation of the use of neural networks machine learning products on the market increased. From machine translation to speech synthesis, these tools make our lives easier and some are almost essential. But we know that the presence of Catalan is not enough yet. A very important example is the fact that  &lt;strong&gt;none of the 32 voice assistants in the market speak Catalan&lt;/strong&gt; , according to the
+&lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://www.plataforma-llengua.cat/que-fem/estudis-i-publicacions/267/informecat-2020&quot; target=&quot;_blank&quot;&gt;InformeCat 2020&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;With this article I want to highlight the remedies that were taken to address this situation, as well as focusing on activities of various communities, especially the open and free software community. Because in some respects &lt;strong&gt;the solutions provided by the open and free software community are ahead of private companies&lt;/strong&gt; and also universities for their applicability and accessibility. In my opinion, this is a differentiating factor that makes the Catalan language special, it also opens the 
+&lt;strong&gt;path to technological sovereignty.&lt;/strong&gt;to ensure the continuity of the language’s presence in the digital sphere. Before delving into the concepts, let’s start with the facts and news from the sector.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;What are the strengths and weaknesses of Catalan in the digital sector?&lt;/h3&gt;
+
+&lt;p&gt;The strongest point of Catalan is its potential to mobilize the community. The most obvious example is the activities of Softcatalà and its mobilization of the community to locate open and free software. Thanks to these efforts we have &lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://www.softcatala.org/projectes/&quot; target=&quot;_blank&quot;&gt;essential tools&lt;/a&gt; such as Firefox, Libre Office and Ubuntu in Catalan. In addition, the most impactful project is the impetus they gave to &lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://commonvoice.mozilla.org/ca&quot; target=&quot;_blank&quot;&gt;Common Voice&lt;/a&gt; , Mozilla’s project to collect speech sets, open and free. Thanks to the promotion of Softcatalà, now &lt;strong&gt;Catalan is one of the largest languages in the Common Voice corpus.&lt;/strong&gt; Catalan is the fourth language (after English, German and Kinyarwanda) on the platform with 755 hours of validated recordings (data from May 2021).&lt;/p&gt;
+
+&lt;p&gt;At Col·lectivaT, the non-profit cooperative of which I am one of the co-founders, we have another strategy, to generate data sets and open tools taking advantage of existing resources. During our short life we created &lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://collectivat.cat/rap&quot; target=&quot;_blank&quot;&gt;two important data sets&lt;/a&gt; , that of TV3 and ParlamentParla, taking advantage of the programming of TV3 and the recordings of the Parliament of Catalonia, respectively.&lt;/p&gt;
+
+&lt;p&gt;These activities are currently feeding more specific technologies and prototypes, the most prominent example being &lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=http://assistent.cat/&quot; target=&quot;_blank&quot;&gt;assistent.cat&lt;/a&gt;, which is the first virtual assistant in Catalan. It is the localized version of &lt;a href=&quot;https://mycroft.ai/&quot; target=&quot;_blank&quot;&gt;Mycroft&lt;/a&gt;, the open virtual assistant. For now, Mycroft does not provide Catalan in their own devices (in fact they do not support any language other than English) and the development of the tool was possible to multiple actors in the community, from members of Softcatalà and Col·lectivaT to translators Tradumatica students from the UAB and 
+&lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://www.softcatala.org/projectes/mycroft/&quot; target=&quot;_blank&quot;&gt;other developers&lt;/a&gt; . In addition, the development of this proof of concept was possible thanks to the other key open technologies, specifically our 
+&lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=http://catotron.collectivat.cat/&quot; target=&quot;_blank&quot;&gt;Catotron&lt;/a&gt; , the only system for the synthesis of speech in Catalan based on neural networks, and the system for recognizing he speaks it 
+&lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://alphacephei.com/vosk/models&quot; target=&quot;_blank&quot;&gt;Vosk-Kaldi&lt;/a&gt; , which has comparable accuracy, if not better, than Google’s service. All of these tools are developed by the free software community.&lt;/p&gt;
+
+&lt;p&gt;The support of the Department of Culture during the last three years for the development of these tools and especially the expansion of the potential of the community itself should be highlighted. Through their support “to encourage the use of Catalan” they are giving an essential boost to the free software community.&lt;/p&gt;
+
+&lt;p&gt;Having said all this, from this point of view, &lt;strong&gt;the weakest point of Catalan is the development of large-scale commercial products&lt;/strong&gt; . Although there are examples of products intended for 
+end user as the &lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://www.softcatala.org/traductor/&quot; target=&quot;_blank&quot;&gt;Softcatalà translator&lt;/a&gt;, so far there is no example of the diffusion and adoption of these newly developed technologies in the commercial market in a particular product. This problem has many facets, and to understand the lack of innovative products in the market we must first consider the logic of capital.&lt;/p&gt;
+
+&lt;p&gt;Here we face the issue of companies in the global market and their lack of interest in providing products in Catalan. The main reason for this is &lt;strong&gt;the vision of companies to see Spain as a single market&lt;/strong&gt; . That is, for them the support of the “most common” language would be enough to penetrate the peninsular territory. This is the logic of capital and business but it is not an inescapable reality.&lt;/p&gt;
+
+&lt;p&gt;First of all, this logic is based on  &lt;strong&gt;the feeling of companies that there is a lack of demand for products in Catalan&lt;/strong&gt; . Although there is 
+&lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://llengua.gencat.cat/ca/detalls/noticia/Gairebe-un-90-dels-consumidors-volen-el-catala-en-els-assistents-de-veu&quot; target=&quot;_blank&quot;&gt;sufficient evidence of market interest&lt;/a&gt;, sometimes not so obvious until a project or event with massive support appears. A recent example is the case of Maori, the indigenous language of New Zealand. After a community project to 
+&lt;a href=&quot;https://www.wired.co.uk/article/maori-language-tech&quot; target=&quot;_blank&quot;&gt;collect recordings of speakers&lt;/a&gt; , large companies began to have a lot of interest in the language. When they could not buy the rights to use the dataset, they launched an effort to collect a commercial dataset. The owner of the community dataset currently has funding to develop a mobile app to facilitate language learning, with a version already available.&lt;/p&gt;
+
+&lt;p&gt;In the case of Catalan, we know that the same provider - which probably works for Google - that manages the collection of speech data also executed another project for Catalan. This shows us that 
+&lt;strong&gt;Catalan is not completely forgotten by large multinational companies&lt;/strong&gt; , so it is a matter of time before the products reach the market. But we need to consider whether it is the desirable solution to bring advanced technologies to market for mass consumption.
+&lt;br /&gt; 
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;How does the promotoion of Catalan fits in a bi-lingual context which Spanish is prioritized?&lt;/h3&gt;
+&lt;p&gt;After talking about large multinational companies (or GAFAM; Google, Amazon, Facebook, Apple, Microsoft) and their possible interest in Catalan, we need to talk about another topic relevant to the situation of Catalan in Spain: &lt;strong&gt;technological sovereignty&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;When we talk about ‘technological sovereignty’ we are generally referring to &lt;strong&gt;control over personal data, control over the processes or algorithms that run behind technological services and the possibility of repairing and / or modifying devices.&lt;/strong&gt;. GAFAM products violate at least one of these principles; from the impossibility of modifying Apple devices, to the exploitation of personal data by Google to the Facebook algorithms that categorize users. In addition to these generic problems, we have another specific problem for the situation of Catalan as a minority language: 
+&lt;strong&gt;the decision to offer Catalan or not in the services of large companies is a prerogative of theirs.&lt;/strong&gt;. The dependence on the will of these companies is the problem that Catalan is currently suffering. Also, even if they decide to integrate it, there is no guarantee that these services will be maintained in the future. That is, technological sovereignty not only involves control over the use of technological products, but also ensures the longevity of the technologies developed. The existence of Catalan in Spain will always imply a certain danger for its digital survival.&lt;/p&gt;
+
+&lt;p&gt;Within the context of technological products, it is evident that the dominance of Spanish over Catalan is due to the logic of the capital and not because of an oppresive state or a discriminatory society -even if one feeds the other-. But one of the ways to ensure the continuous proliferation of Catalan in the digital field is to have a disposition of technological sovereignty. It is undeniable that Catalan is a living language, with a considerable presence in the various media, from books to audiovisual production, and therefore has every right to take place in the digital field.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;What actions should be promoted to make Catalan available in all digital services? &lt;/h3&gt;
+&lt;p&gt;From this point of view of technological sovereignty, it is &lt;strong&gt;important to support open and free technologies&lt;/strong&gt;, to drive the creation of open data sets for the use of developers. The most important aspect of executing these actions is community support. The creation of formal and informal networks of developers, the interest of universities in contributing to existing projects and the organization of various activities such as 
+&lt;em&gt;hackathons&lt;/em&gt; are some of the most concrete actions to ensure the continuous development of language technologies in Catalan.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;In this scenario there is another very important actor, which is the public administration. Another way to ensure the maintenance of developed technologies and generate linguistic data to improve technological products is to 
+&lt;strong&gt;invest in a digital infrastructure of public administration&lt;/strong&gt; . The use of open technologies in public services would ensure the maintenance of these technologies. In addition, in the other direction, public services could be important sources of data for the improvement of language technologies, such as the speech corpus of the ParlamentParla parliament, which is already being used by multiple open projects. In fact there is already a plan proposed by the Generalitat for 
+&lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://politiquesdigitals.gencat.cat/ca/detalls/Noticia/Nova-Noticia-00208&quot; target=&quot;_blank&quot;&gt;invest in a language technology infrastructure&lt;/a&gt; that also provides for a language data platform.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;What actors or resources would need to be activated to make this possible?&lt;/h3&gt;
+&lt;p&gt;Within this proposed value chain, we are talking about some very clear actors such as community organizations and public administration. But there remains a very important piece that is &lt;strong&gt;the marketing of these open technologies&lt;/strong&gt; , which involves another type of actor.&lt;/p&gt;
+
+&lt;p&gt;Marketing refers to the development of products, from the scalability of technology to distribution and the ability to serve customers. These tasks can be carried out only by private entities, and those that will have to bet are the SMEs of the territory, that is, the manufacturers that have a territorial root.&lt;/p&gt;
+
+&lt;p&gt;That way, we can &lt;strong&gt;to develop a network of technological actors, a sovereign and also resilient network&lt;/strong&gt;, in the sense that the maintenance of technologies will be ensured, by the involvement of local private entities.&lt;/p&gt;
+
+&lt;p&gt;This strategy is important so as not to depend on large multinational companies. The Platform for the Language and the public administration have been pressuring GAFAM companies to integrate Catalan for years, but the results are still very limited. Appealing to authority has not yielded a concrete result in speech products yet, but in the meantime the community is creating new technologies, prototypes and simple products. 
+&lt;strong&gt;It is now necessary to activate commercial initiatives in the territory and make them scalable&lt;/strong&gt;. This will not only fill a gap in the provision of services (supply), but will also boost large companies indirectly because it will definitely show the preference of Catalan speakers for services in their language, ie a specific demand.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;In short, in addition to investment, it is
+&lt;strong&gt;necessary to assume a strategy of technological sovereignty&lt;/strong&gt; that involves actors from the free software community and private initiatives, to public administration. Open innovation has the potential to drive local initiatives, motivate large companies and also energize the community to adopt and maintain these key technologies. Over the last 3 years, Catalan has made a fairly significant leap, however 
+&lt;strong&gt;we have one more step to bring the technological experience and new products to the market&lt;/strong&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt;References of interest:&lt;/h3&gt;
+&lt;ul&gt; 
+&lt;li&gt;Vosk is a free software project to make the Kaldi speech recognition engine more accessible. It is powered by Alphacephei and the main contributor is Nikolay V. Shmyrev. The models in Catalan are on their website &lt;a href=&quot;https://translate.google.com/website?sl=auto&amp;amp;tl=en&amp;amp;nui=1&amp;amp;u=https://alphacephei.com/vosk/models&quot; target=&quot;_blank&quot;&gt;https://alphacephei.com/vosk/models&lt;/a&gt;&lt;/li&gt; 
+&lt;li&gt;The speech recognition modes trained by Ciaran O'Reilly can be accessed here &lt;a href=&quot;https://huggingface.co/ccoreilly/wav2vec2-large-xlsr-catala&quot; target=&quot;_blank&quot;&gt;https://huggingface.co/ccoreilly/wav2vec2-large-xlsr-catala&lt;/a&gt; and &lt;a href=&quot;https://github.com/ccoreilly/wav2vec2-catala&quot; target=&quot;_blank&quot;&gt;https://github.com/ccoreilly/wav2vec2-catala&lt;/a&gt;&lt;/li&gt; 
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/blog/en/2021-06-29-pensem-FOSS-article/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/blog/en/2021-06-29-pensem-FOSS-article/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>en</category>
+        
+      </item>
+    
+      <item>
+        <title>Catalan language and speech technologies in 2021</title>
+        <description>&lt;p&gt;Catalan is one of the languages in Europe which feels the threat of the digital divide due to the rapid pace of innovation in language technologies. Luckily the local government Generalitat is very conscious on the subject and has been supporting various initiatives to ensure that Catalan language is represented both in the innovation efforts and products in the market.&lt;/p&gt;
+
+&lt;p&gt;As a part of the awareness efforts the Language Policy General Management (Direcció General Política Lingüística) of Generalitat have organized a stream, outlining the government led initiatives on giving support to open innovation on speech technologies. People, experts in their fields were invited to explain the recent developments and the projects they were involved in, and I was very fortunate to be a part of this group of experts.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IoQmsaInLuE&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I talked about Catotron, the first open neural TTS models in Catalan, and partly about the first Catalan virtual assistant assistent.cat (based on Mycroft) together with Joan Montané of Softcatalà. Later together we have answered questions concerning open source, and open data initiatives concerning speech technologies.&lt;/p&gt;
+
+&lt;p&gt;The stream was opened by Ester Franquesa, the director of DGPL, hosted other important actors of the field Maite Melero and Marta Villegas from the Barcelona Supercomputing Center and Xavier Fisa from Lavínia Next.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/blog/en/2021-06-04-generalitat-lan-tech/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/blog/en/2021-06-04-generalitat-lan-tech/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>en</category>
+        
+      </item>
+    
+      <item>
+        <title>Marksizm Ile Başarıyı Yakalayın</title>
+        <description>&lt;p&gt;Bir diğer canlı periskop yayınında, Marksizm bilgisi “gerçek hayatımızda ne işe yarayacak”tan yola çıkarak iş ortamında dayanışma ve direnişten bahsetmeye çalıştım. Bu konuşma sırasında işlediğim kavramlar; emek değer teorisi, maaş duraksaması/stagnasyonu ve “sınıf.” Bunun yanında tabi ki en önemlisi güncel iş ortamından emek örgütlenme (ve örgütlenememe) anektodlarından bahsederek, bu kavramların “gerçek hayata” yansımalarından bahsetmeye çalıştım.&lt;/p&gt;
+
+&lt;p&gt;Kayıt için:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872847892&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/gullabi&quot; title=&quot;Kültür Fizik Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Kültür Fizik Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/gullabi/marksizm-ile-is-hayatinizda-basariyi-yakalayin&quot; title=&quot;Marksizm ile iş hayatınızda başarıyı yakalayın&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Marksizm ile iş hayatınızda başarıyı yakalayın&lt;/a&gt;&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Canlı yayın sırasında bahsettiklerim ve gösterdiğim web siteleri sırasıyla:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ülkelerin gayri safi yurtiçi hasılalarının yıllar içinde büyümesi (grafik ikinin üstel ölçekle çizilmiştir) &lt;a href=&quot;https://www.gapminder.org/tools/#$state$entities$show$country$/$in@=gbr&amp;amp;=tur&amp;amp;=usa&amp;amp;=chn;;;;;&amp;amp;chart-type=linechart&quot;&gt;kaynak&lt;/a&gt;
+&lt;img src=&quot;/assets/img/podcast/bolum07/GM_gdp.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Gelir dağılımındaki eşitsizliğin yıllar içindeki artışı: Nüfusun en zengin yüzde onu, gelirin yüzde kaçına sahip &lt;a href=&quot;https://www.gapminder.org/tools/#$state$time$value=2018&amp;delay:100;&amp;amp;entities$show$country$/$in@=tur&amp;amp;=usa&amp;amp;=deu&amp;amp;=fra;;;;&amp;amp;marker$axis_y$which=income_share_of_richest_10percent&amp;amp;scaleType=linear&amp;spaceRef:null;;;&amp;amp;chart-type=linechart&quot;&gt;kaynak&lt;/a&gt;
+&lt;img src=&quot;/assets/img/podcast/bolum07/GM_income.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Maaş duraksamasının tarihi ve &lt;a href=&quot;https://aneconomicsense.org/2015/02/13/why-wages-have-stagnated-while-gdp-has-grown-the-proximate-factors/&quot;&gt;detayları&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ek bilgi: DISK’in “sanayide verim artıyor, ücret artmıyor” açıklaması
+&lt;img src=&quot;/assets/img/podcast/bolum07/disk_grafik.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Ek bilgi: Kovid torba yasasındaki &lt;a href=&quot;https://sol.org.tr/haber/torba-yasa-mecliste-ucretsiz-izin-serbest-sendikal-haklar-askida-1686&quot;&gt;emek karşıtı maddeler&lt;/a&gt;: Ücretsiz izine destek; sendikaların örgütlenme, toplu sözleşme ve grev hakkına saldırı.
+&lt;img src=&quot;/assets/img/podcast/bolum07/alp01.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/podcast/tr/2020-07-15-marksizm-ile-ba%C5%9Far%C4%B1y%C4%B1-yakalay%C4%B1n/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2020-07-15-marksizm-ile-ba%C5%9Far%C4%B1y%C4%B1-yakalay%C4%B1n/</guid>
+        
+        
+        <category>podcast</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Dayanışma Ekonomisinin Covid19 Krizine Cevabı</title>
+        <description>&lt;p&gt;Periskoptaki bu ilk canlı yayınımda, İspanya kooperatifçiliğinden, genel olarak dayanışma ekonomisinin ne olduğundan ve tarihinden bahsettim. Bunun en önemli nedeni üyesi olduğum çalışma kooperatifi Col·lectivaT olarak, bu girişimlerde bizim de yer almış olmamız. Ve birinci elden bu bilgileri sizlerle paylaşmak istemiş olmam.&lt;/p&gt;
+
+&lt;p&gt;Kaydın kendisine buradan ulaşabilirsiniz:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/835913908&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/gullabi&quot; title=&quot;Kültür Fizik Podcast&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Kültür Fizik Podcast&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/gullabi/dayanisma-ekomomisinin-covid19-krizine-cevabi&quot; title=&quot;Dayanışma ekomomisinin Covid19 krizine cevabı&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Dayanışma ekomomisinin Covid19 krizine cevabı&lt;/a&gt;&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Canlı yayın sırasında bahsettiklerim ve gösterdiğim web siteleri sırasıyla:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bilgi emekçileri kooperatifi &lt;a href=&quot;https://collectivat.cat/&quot;&gt;Col·lectivaT&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Covid19 krizi nedeniyle İspanya’da kurulan &lt;a href=&quot;https://sites.google.com/view/apmc19&quot;&gt;mahalli dayanışma ağlarının haritası&lt;/a&gt; ve erişilebilir hale getirdiğimiz &lt;a href=&quot;https://dadess.cat/dataset/suport-mutu-covid19&quot;&gt;verileri&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Kitle fonlandırma sitesi &lt;a href=&quot;https://www.goteo.org/&quot;&gt;Goteo&lt;/a&gt; ve Covid19 kriziyle mücadele amacıyla kurdukları &lt;a href=&quot;https://www.goteo.org/channel/coronazero&quot;&gt;#CoronaZero&lt;/a&gt; kanalı&lt;/li&gt;
+  &lt;li&gt;Bizim de dahil olduğumuz yaşam için economi, &lt;a href=&quot;https://ca.goteo.org/project/fons-cooperatiu-front-l-emergencia-social-i-sanita&quot;&gt;Economia per la vida&lt;/a&gt; projesi.&lt;/li&gt;
+  &lt;li&gt;Mahalle dayanışma ağlarının göçmenlerle haberleşmelerini kolaylaştırmak için geliştirdiğimiz yazılım &lt;a href=&quot;https://collectivat.cat/blog/2020-05-11-suportmutu-ca/&quot;&gt;SuportMutu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Gıda kooperatifleri ve organik, yerel üreticileri tüketicilerle buluşturma girişimleri &lt;a href=&quot;http://arrandeterra.org/abastiment/&quot;&gt;Arran de terra&lt;/a&gt; ve &lt;a href=&quot;https://pagesiaacasa.cat/&quot;&gt;çiftçi sendikası&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Görseller yakında eklenecek.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/podcast/tr/2020-05-20-dayan%C4%B1%C5%9Fma-ekonomisinin-covid19-krizine-cevab%C4%B1/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2020-05-20-dayan%C4%B1%C5%9Fma-ekonomisinin-covid19-krizine-cevab%C4%B1/</guid>
+        
+        
+        <category>podcast</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Kimsenin Okumadığı Kitap Şeytan Ayetleri</title>
+        <description>&lt;p&gt;Bu kaydın konusu, yayınlanmasının üstünden 31 yıl geçmiş olmasına rağmen
+Türkiye’de yayınlanması efektif olarak yasak olan, yirminci yüzyılın en 
+tartışmalı kitabı, Şeytan Ayetleri.&lt;/p&gt;
+
+&lt;p&gt;Bu bölüm üç ayrı kayıttan oluşuyor:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kimsenin Okumadığı Kitap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/677676732&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;Siyaset ve Meşruiyet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680489993&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+  &lt;li&gt;Şeytan Ayetleri ve Türkiye&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/691963450&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Kayıtları &lt;a href=&quot;https://cloud.laklak.eu/s/pJHYqkWfjXeTEsC&quot;&gt;buradan&lt;/a&gt; indirebilirsiniz ya da aşağıdan dinleyebilirsiniz:&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h1 id=&quot;notlar&quot;&gt;Notlar&lt;/h1&gt;
+
+&lt;p&gt;Kayıtların hazırlanmasında yararlandığım başlıca kaynaklar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;From Fatwa to Jihad: The Rushdie Affair and its Aftermath; Kenan Malik; &lt;a href=&quot;http://gen.lib.rus.ec/book/index.php?md5=F902FCD385C9EAA3D21BA734C4D3F6D2&quot;&gt;link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sivas Davası Cilt &lt;a href=&quot;http://tbbyayinlari.barobirlik.org.tr/TBBBooks/sd1.pdf&quot;&gt;I&lt;/a&gt;, &lt;a href=&quot;http://tbbyayinlari.barobirlik.org.tr/TBBBooks/sd2.df&quot;&gt;II&lt;/a&gt;, &lt;a href=&quot;http://tbbyayinlari.barobirlik.org.tr/TBBBooks/sd3.pdf&quot;&gt;III&lt;/a&gt;, &lt;a href=&quot;http://tbbyayinlari.barobirlik.org.tr/TBBBooks/sd4.pdf&quot;&gt;IV&lt;/a&gt;; Türkiye Barolar Birliği yayınları&lt;/li&gt;
+  &lt;li&gt;Bir Tutam Aydınlık; Aziz Nesin; &lt;a href=&quot;https://web.archive.org/web/20170406160825/http://www.nesinvakfi.org/bta.pdf&quot;&gt;kitaptaki Rüşdi ile polemik kısımları&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/podcast/tr/2019-09-07-kimsenin-okumad%C4%B1%C4%9F%C4%B1-kitap-%C5%9Eeytan-ayetleri/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-09-07-kimsenin-okumad%C4%B1%C4%9F%C4%B1-kitap-%C5%9Eeytan-ayetleri/</guid>
+        
+        
+        <category>podcast</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Mukaddime Kriz Ekonomi</title>
+        <description>&lt;p&gt;Bu uzun programda Kültür Sohbetlerinden Ozan Sağsöz ile kitabı “İbn Haldun’un
+Mukaddime’sinde Maişet Yolları”nı  konuştuk. İbn Haldun düşüncesinin ekonomik
+boyutlarını ayrıntılı olarak irdeleyerek, bu düşüncenin bugün de geçerliliği var
+mı, bize yol gösterdiği noktalar olabilir mi, bunları ayrıntılı olarak
+tartıştık.&lt;/p&gt;
+
+&lt;p&gt;Kaydı &lt;a href=&quot;https://cloud.laklak.eu/s/fpdjWa3nS4mf3Z3&quot;&gt;buradan&lt;/a&gt; indirebilirsiniz ya da aşağıdan dinleyebilirsiniz:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/630620316&amp;amp;color=%239c8eb9&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+
+&lt;h1 id=&quot;notlar&quot;&gt;Notlar&lt;/h1&gt;
+
+&lt;p&gt;Konuşma boyunca atıfta bulunduğumuz kitapların bir listesi:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;İbn Haldun’un Mukaddime’sinde Maişet Yolları; Ozan Sağsöz&lt;/li&gt;
+  &lt;li&gt;İbn Haldun, Mukaddime; Süleyman Uludağ&lt;/li&gt;
+  &lt;li&gt;Islam and Capitalism; Maxime Rodinson&lt;/li&gt;
+  &lt;li&gt;Living in the End Times; Slavoj Žižek&lt;/li&gt;
+  &lt;li&gt;Peau noire, masques blancs (Black Skin, White Masks); Franz Fanon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ve hala bilmeyenler varsa, Ozan Sağsöz’ün Cengiz Özdemirle birlikte yaptığı
+Kültür Sohbetleri’ne &lt;a href=&quot;https://medyascope.tv/videolar/kultur/kultur-tarih-sohbetleri/&quot;&gt;buradan&lt;/a&gt; ulaşabilirsiniz.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/podcast/tr/2019-06-02-mukaddime-kriz-ekonomi/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-06-02-mukaddime-kriz-ekonomi/</guid>
+        
+        
+        <category>podcast</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Ilahiyat Ve Astronomi</title>
+        <description>&lt;p&gt;Bu ilk podcast kaydımda, Antik Yunan’dan Kopernik’e uzanan astronomi tarihindeki eksik basamaktan, yani İslam orta çağından bahsediyorum.
+Temel kaynağım ise beklenmedik bir yerden, İmam Gazali’nin Filozofların Tutarsızlıkları (Tehafüt el-Felasife).&lt;/p&gt;
+
+&lt;p&gt;Kaydı &lt;a href=&quot;https://cloud.laklak.eu/s/iGXnkFRiZS8YBFx&quot;&gt;buradan&lt;/a&gt; indirebilirsiniz ya da aşağıdan dinleyebilirsiniz:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619108851&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+
+&lt;h1 id=&quot;notlar&quot;&gt;Notlar&lt;/h1&gt;
+
+&lt;p&gt;Güllabi ile Kültür Fizik’in ilk bölümünde sosyal medyada çok konuşulan ve Türkiye’de de örgütlü olan düzdünyacılık vesilesiyle,
+İslam ilahiyatı ve bilim tarihinden bahsediyorum. 
+Bunun nedeni ne düzdünyacıların ne de Düz Dünya yanlışlamacılığının, İslam coğrafyasının tarihine atıfta bulunmaması. 
+Düz Dünya’nın neden olamayacağıyla ilgili en önemli Türkçe kaynak ise &lt;a href=&quot;https://evrimagaci.org/duz-dunya-komplosu-4860&quot;&gt;Evrim Ağacı’nda&lt;/a&gt;,
+Bilimsel ayrıntılar için oraya danışabilirsiniz. Ben bu kayıtta bunlardan bahsetmiyorum.&lt;/p&gt;
+
+&lt;p&gt;Bahsedeceğim diğer konular için ise dinlemenizi kolaylaştırmak için kullandığım kaynakların listesi ve çeşitli görseller şu şekilde:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Düz Dünya hareketinin Hristiyan Selefizmi ile olan tarihsel bağlantısı için en kapsamlı kaynak,
+Christine Garwood’un &lt;a href=&quot;http://booksdescr.org/item/index.php?md5=05F2C4B5E9F04EA8238211DB5AB3C748&quot;&gt;Flat Earth: The History of an Infamous Idea&lt;/a&gt; kitabı.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Güneş merkezcil evren modelinin kabulünün öncesinde, 1500 yıldan uzun süre boyunca kabul gören Batlamyus evreninde de dünya küreydi.
+Kayıtta bahsettiğim, gezegenlerin üzerinde hareket ettiği gök feleklerini gözünüzde canlandırmakta zorlanıyorsanız,
+Andreas Cellarius’un 1661’de çizdiği Harmonia Macrocosmica’dan bu felekleri görebilirsiniz:&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/podcast/bolum01/Ptolemaic-geocentric-model.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kayıtta Batlamyus modelinin gerçekliği matematiksel olarak açıklayabilmek için kullandığı en önemli kavramlardan yani epicycle ve equanttan da bahsettim.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/podcast/bolum01/Ptolemaic_elements.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ve bu matematiksel yamalardan, çok daha basit bir çözümle kurtulunmasını sağlayan Nasrettin Tusi’den ve Tusi çiftinden de bahsettim.
+Nasrettin Tusi’nin kendi &lt;a href=&quot;https://digi.vatlib.it/view/MSS_Vat.ar.319/0062&quot;&gt;el yazmasından&lt;/a&gt; Tusi çifti hesapları da burada:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/podcast/bolum01/Tusi_couple.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;İslam Orta Çağ’ına geldiğimizde, pek beklenmeyecek bir yapıta ve âlime atıfta buluyorum;
+İmam Gazali’nin &lt;a href=&quot;https://www.scribd.com/document/58093100/Gazali-Filozoflarin-Tutarsizligi&quot;&gt;Tehafüt el-Felasife&lt;/a&gt;‘sine
+yani Filozofların Tutarsızlıkları yapıtına (Berkir Karlığa çevirisi). Alıntılar ise şunlar:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/podcast/bolum01/gazzali01.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/img/podcast/bolum01/gazzali02.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/img/podcast/bolum01/gazzali03.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/img/podcast/bolum01/gazzali04.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/img/podcast/bolum01/gazzali05.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Son olarak, madem İslam Orta Çağı’nda Dünya’nın şekli biliniyordu, ve kıble buna göre hesaplanıyordu,
+o zaman geçmişte yapılmış bir caminin kıblesine bakarak bunu görmek mümkün mü,
+sorusundan yola çıkarak; Bangladeş’in  Bargerhat kentindeki yapımı 1459’da bitmiş
+Shat Gombuj yani altmış kubbe camine bakıyorum.
+Aşağıda hem &lt;a href=&quot;https://namazvakitleri.diyanet.gov.tr/tr-TR/kible&quot;&gt;Diyanet&lt;/a&gt;‘in hem de &lt;a href=&quot;https://qiblafinder.withgoogle.com/intl/en/&quot;&gt;Google&lt;/a&gt;‘ın Kıble bulma aplikasyonlarından,
+caminin mimarisinin küre üzerinde hesaplanmış bir kıbleye göre yapıldığı görülüyor.
+Bunun da en önemli göstergesi, Shat Gombuj Cami’nin 22°40′28″ kuzey paralelinde,
+yani 21°25′21″ kuzey paralelindeki Kâbe’nin kuzeyinde olmasına rağmen,
+kıble yönünün batı-kuzey batı yönünde olmasından kaynaklanıyor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/podcast/bolum01/diyanet_shat.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/img/podcast/bolum01/google_shat02.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/podcast/tr/2019-04-12-ilahiyat-ve-astronomi/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-04-12-ilahiyat-ve-astronomi/</guid>
+        
+        
+        <category>podcast</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Alternatif Ekonomi, Katalonya’da kooperatifçilik - Medyascope</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kr9BZ8nqW8A&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2018-04-26-alternatif-ekonomi/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2018-04-26-alternatif-ekonomi/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Katalonya bilmecesi - Medyascope</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/faAYQrQknFI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2017-10-30-referandum-4/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2017-10-30-referandum-4/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Katalonya'da kritik gün - Medyascope</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KkDnAHxZb-M&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2017-10-10-referandum-3/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2017-10-10-referandum-3/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Referandumun ardından Katalonya'yı neler bekliyor? - Medyascope</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vbjjveACL9w&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2017-10-02-referandum-2/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2017-10-02-referandum-2/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Barselona'da referandum gerginliği - Medyascope</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C6NW1zq_Vfk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2017-09-20-referandum-1/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2017-09-20-referandum-1/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>İspanya’nın İç Güvenlik Susturması</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;p&gt;&lt;em&gt;Bu yazı ilk olarak 25 Nisan 2015’te Bianet’te yayınlandı. 
+&lt;a href=&quot;https://bianet.org/biamag/biamag/164086-ispanya-nin-ic-guvenlik-susturmasi&quot;&gt;link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Susturma yasası olarak anılan vatandaş güvenliği yasasına karşı İspanya’da birçok eylem düzenlendi. Kaynak: Victor Serri, &lt;a href=&quot;https://directa.cat/acusen-una-periodista-basca-denaltiment-del-terrorisme-informar-dun-acte-politic&quot;&gt;La directa&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Geçen ay İspanya’da Vatandaş Güvenliğini Koruma, Anti-terörizm ve yeni Ceza Yasaları mecliste onandı.&lt;/p&gt;
+
+&lt;p&gt;İktidardaki merkez sağ &lt;em&gt;Partido Popular&lt;/em&gt;‘ın (PP) salt çoğunluğuyla meclisten geçirdiği bu yasa paketi sadece isim benzerliği nedeniyle değil içeriğiyle de Türkiye’deki iç güvenlik paketi ile paralellikler taşıyor.&lt;/p&gt;
+
+&lt;p&gt;Susturma yasası (&lt;em&gt;Ley Mordaza&lt;/em&gt;) olarak da anılan Vatandaş Güvenliğini Koruma Yasası, Franco rejiminden beri ifade özgürlüğüne yapılan en büyük darbe olarak kabul ediliyor.&lt;/p&gt;
+
+&lt;p&gt;Kamu binaları önünde yapılan eylemlere getirdiği yasak nedeniyle dünyanın ilk hologram eylemine vesile olan bu yasa değişikliği, Türkiye’de de haber değeri taşıyordu. Ancak yasanın detayları, İspanya’daki ifade özgürlüğünün sıkıntıları ve bununla bağlantılı olarak polis şiddetinin durumu henüz ayrıntılı olarak tartışılmış değil.&lt;/p&gt;
+
+&lt;p&gt;Peki 2008 krizinden etkilenerek giderek büyüyen bu sokak muhalefetini karşısında bulan PP iktidarı, neden AKP iktidarına benzer bir çıkış yolunu seçerek böyle bir iç güvenlik paketi tasarlama ihtiyacı duydu?&lt;/p&gt;
+
+&lt;h2 id=&quot;yolsuzluk-ve-sokak-eylemleri&quot;&gt;&lt;strong&gt;Yolsuzluk ve sokak eylemleri&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;2008 krizinin nasıl olup da hâlâ İspanya’daki gündelik yaşama etkisi olabildiğini anlamak için bakılması gereken en önemli gösterge sokak hareketlerinin ve eylemlerin yoğunluğu.&lt;/p&gt;
+
+&lt;p&gt;Uluslararası &lt;a href=&quot;https://www.amnesty.org/en/articles/news/2014/04/spain-protests-and-suffocating-embrace-law/&quot;&gt;Af Örgütü’nün verilerine&lt;/a&gt; göre 2012 yılında İspanya genelinde 15.000 eylem gerçekleşti. 2013 için de durum pek değişmiş değil: Sadece Madrid’de 2013 yılı boyunca gerçekleşen 4500 eylem, bir önceki yıla nazaran bin eylemlik bir artış anlamına geliyor.&lt;/p&gt;
+
+&lt;p&gt;Bu eylemlerin ana temaları kemer sıkma politikaları, devletin kamu sektöründe yaptığı kesintiler, barınma hakkı, İspanya’nın cezalandırıcı borç hukuku ve polis şiddeti şeklinde örneklendirilebilir. İspanya’da meydan işgalleriyle başlayan ve ardından mahalle forumlarıyla devam eden ve 15M olarak da anılan Öfkeliler (&lt;em&gt;Indignados&lt;/em&gt;) hareketi, bu sokak direnişinin önemli bir dinamosu olma görevini taşımaya devam ediyor.&lt;/p&gt;
+
+&lt;p&gt;Çeşitli vatandaş taleplerinin sokak muhalefetiyle iletilmesinin önemli diğer bir nedeni ise her geçen gün yeni bir yolsuzluk haberi ile çalkalanan İspanya’nın, parlamenter sisteme duyduğu güven kaybı. IMF başkanlığı ve Bankia yöneticiliği yapmış, PP’nin Eski Ekonomi Bakanı Rodrigo Rato’nun geçen haftalarda para aklama ve yolsuzluktan hapse atılması bunun en güncel örneği.&lt;/p&gt;
+
+&lt;p&gt;Rato hakkındaki ilk suç duyurusunu Öfkelilerin “15MpaRato” hareketi yapmıştı. Rato’nun yöneticiliğini yaptığı Bankia’nın politikacılara rüşvet skandalının (&lt;a href=&quot;http://www.milliyet.com.tr/ispanya-da-kredi-karti-skandali/ekonomi/detay/1951676/default.htm&quot;&gt;&lt;em&gt;tarjeta black&lt;/em&gt;&lt;/a&gt;, karşılıksız kredi kartı) ortaya çıkmasında bu hareketin üstlendiği önemli rol düşünüldüğünde, sokak muhalefetinin iktidar için ne kadar büyük bir tehdit nedeni olabildiğini anlıyoruz.&lt;/p&gt;
+
+&lt;h2 id=&quot;kamuya-açık-alanda-toplantıya-100-ila-600--arası-ceza&quot;&gt;&lt;strong&gt;Kamuya açık alanda toplantıya 100 ila 600 € arası ceza&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;İspanya’nın iç güvenlik paketinin getirdiği değişikliklerin ayrıntılarına baktığımızda, bunlardan en önemlisinin, çeşitli toplantı ve eylem biçimlerinin kriminalize edilerek artık idari para cezalarına tabi olduğunu görüyoruz.&lt;/p&gt;
+
+&lt;p&gt;Bu şekilde yasalarda olmasına rağmen pratikte cezalandırılamayan izinsiz gösteri yapma suçunun yargılanması, mahkeme aradan çıkarılarak polisin keyfiyetine bırakılmış oluyor. Bu cezalara itiraz için mahkemeye başvurduğunda masrafları ödemesi gereken taraf yine vatandaş olacağı için, yeni cezalar maddi olarak ciddi bir caydırıcılık taşıyor.&lt;/p&gt;
+
+&lt;p&gt;Özellikle vatandaşların ana sorununun geçim sıkıntısı ve işsizlik olduğu düşünüldüğünde, yeni yasanın hedef aldığı kitlenin “kamu düzenini bozan tehlikeli odaklar” bile olmadığı anlaşılıyor.&lt;/p&gt;
+
+&lt;p&gt;Bu aslında Avrupa’nın diğer ülkelerinde de görülen, kemer sıkma politikalarının uygulanmasıyla ilişkili olarak iç güvenlik yasalarının da artarak baskıcı hale gelmesiyle doğrudan bir paralellik taşıyor.&lt;/p&gt;
+
+&lt;h2 id=&quot;i̇zinsiz-gösteriye-600-ila-30-bin--arası-ceza&quot;&gt;&lt;strong&gt;İzinsiz gösteriye 600 ila 30 bin&lt;/strong&gt; € arası &lt;strong&gt;ceza&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Buna rağmen iktidar destekçileri (örneğin, İspanya’nın Vakit gazetesi olarak düşünülebilecek La Razon’un genel yayın yönetmeni Francisco Marhuenda), bu yasanın vatandaşlara karşı değil, banka camlarını kıran, çöp bidonlarını yakarak polisle çatışan sokaktaki tehlikeli gruplara karşı olduğu iddiasında.&lt;/p&gt;
+
+&lt;p&gt;İspanya iç güvenlik yasasının içeriği de bu şekilde hazırlanmış gibi gözüküyor: Kamu düzenini bozucu eylemlere, kritik kamu dairelerinin işgali ya da işlerliklerinin durdurulmasına karşı bu cezaların işleme koyulması öngörülüyor.&lt;/p&gt;
+
+&lt;p&gt;Ancak güvenlik yasasına yöneltilen eleştirilerin en önemlilerinden biri de bu suç isnatı tanımlamalarının muğlaklığı. Kamu düzeninin ne şartlarda bozulduğu, kilit kamu dairelerinin nereler olduğu ve işlerliklerinin durdurulmasının nasıl tanımlanacağı ve, dolayısıyla, polisin verdiği bu kararların ne kadar yerinde olacağı şüphe konusu.&lt;/p&gt;
+
+&lt;p&gt;Bunun bir nedeni de kitlesel olaylara müdahale konusunda İspanyol polisinin sicilinin kabarık olmasından kaynaklanıyor.&lt;/p&gt;
+
+&lt;h2 id=&quot;polise-mukavemete-600-ila-30-bin--arası-ceza&quot;&gt;&lt;strong&gt;Polise mukavemete&lt;/strong&gt; &lt;strong&gt;600 ila 30 bin € arası ceza&lt;/strong&gt; &lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bianet.org/resim/olcekle/67125/490/321&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;14 Kasım 2012 genel grev eylemleri akşamı polis saldırısına uğrayan Ester Quintana’nın, saldırının hemen sonrasındaki görüntüleri. Kaynak: 20 minutos.&lt;/p&gt;
+
+&lt;p&gt;Kitlesel olaylarda aşırı güç kullanımı bir yandan yaralanmalara ve can kayıplarına neden olurken diğer yandan polisin düzmece raporları nedeniyle vatandaşların özgürlüklerine de mal olmakta. İspanya’da -özellikle de Katalunya ve Bask Ülkesi’nde- polis şiddetinin en açık örneği, eylemlerde kullanılan &lt;a href=&quot;http://www.bianet.org/bianet/insan-haklari/155401-katalonya-plastik-mermiyi-yasakladi&quot;&gt;plastik top mermiler&lt;/a&gt; nedeniyle sekiz kişinin gözünü kaybetmesi ve iki kişinin de hayatını yitirmesi.&lt;/p&gt;
+
+&lt;p&gt;Ester Quintana da gözünü kaybeden insanlar arasındaydı. Dönemin Katalunya İçişleri Bakanı Felip Puig, 2012 genel grevi sırasında yaşanan bu olayın suçlusunun polis saldırısı değil eylemcilerin attığı taş ve şişeler olduğunu pervasızca iddia etmişti.&lt;/p&gt;
+
+&lt;p&gt;Ancak “Ojo con tu ojo” (Gözüne dikkat et) hareketinin mücadelesi ve haksız polis saldırısının videosunun Internete koyulması, Puig’un yalan söylediğini ortaya çıkarmıştı.&lt;/p&gt;
+
+&lt;h2 id=&quot;polisi-görüntülersen-600-ila-30-bin--arası-ceza&quot;&gt;&lt;strong&gt;Polisi görüntülersen 600 ila 30 bin €&lt;/strong&gt; &lt;strong&gt;arası ceza&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mahkemeleri devreden çıkararak polisin keyfî davranmasının önünü açan iç güvenlik paketi, çok önemli bir değişiklik daha yapıp polisin halk tarafından kayda alınmasını da cezaya tabi tutuyor.&lt;/p&gt;
+
+&lt;p&gt;Ester Quintana’nın durumuna benzer şekilde polis cinayetine kurban giden Juan Andrés Benítez’in[1] de gerçekte başına gelenler komşuların saldırıyı görüntülemesi sayesinde netlik kazanmıştı.&lt;/p&gt;
+
+&lt;p&gt;Öyle görülüyor ki yeni güvenlik paketi polis dokunulmazlığının vatandaş haberciliği ile ortaya çıkarılmasını da engellemeyi planlıyor.&lt;/p&gt;
+
+&lt;p&gt;Bu yasanın radikalleri hedef aldığı iddialarının dayanaklarından biri de bu iç güvenlik paketi içinde aslında bir de anti-terör yasası bulunması.&lt;/p&gt;
+
+&lt;p&gt;Charlie Hebdo katliamından hemen sonra, merkez sağ ve merkez solun birlik olarak kabul ettiği yasa, sadece “terörist” takibini amaçlamakla kalmıyor, terör örgütü sempatizanlarının bu örgüte katılmak veya hizmet etmek üzere yolculuk yapmasını da suç olarak tanımlayarak cezalandırılmasını öngörüyor.&lt;/p&gt;
+
+&lt;p&gt;Bu yasanın tasarlanması ve teklifinde, İspanyol vatandaşlarının cihatçı örgütlere katılmak üzere Suriye’ye giderken &lt;a href=&quot;http://www.haberturk.com/gundem/haber/1056221-iside-katilmak-istedikleri-one-surulen-19-yabanci-gaziantepte-yakalandi&quot;&gt;yolda yakalanmalarının&lt;/a&gt; da etkisi var.&lt;/p&gt;
+
+&lt;p&gt;Ancak bu yasa, radikal sol gruplar için çok farklı bir anlama geliyor. Bunun nedeni de son 5 ay içinde yapılan, anarşistleri ve aktivistleri hedef alan bireylere iki büyük operasyondan kaynaklanıyor.&lt;/p&gt;
+
+&lt;h2 id=&quot;polisin-aktivistleri-fişlemesi-yasal-olacak&quot;&gt;&lt;strong&gt;Polisin aktivistleri fişlemesi yasal olacak&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bianet.org/resim/olcekle/67129/250/417&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Juan Andres Benitez’in öldürüldüğü Aurora sokağındaki, mahalleliler tarafından işgal edilen boş arsa, Ágora Juan Andrés’in duvarından bir grafiti. Kaynak: Baybars Külebi&lt;/p&gt;
+
+&lt;p&gt;Bu operasyonlardan ilki [2], Operasyon Pandora, &lt;a href=&quot;http://wiki.15m.cc/wiki/Operaci%C3%B3n_Pandora&quot;&gt;geçen yıl aralık ayında&lt;/a&gt; Barselona ve Madrid’de anarşistlere karşı düzenlendi. Önceden belirlenmiş aktivist evlerine yapılan baskınlar sonrasında Barselona’da 13, Madrid’de 1 kişi gözaltına alınmış, bunlardan 11 tanesi ise yargılanmak üzere tutuklanmıştı.&lt;/p&gt;
+
+&lt;p&gt;Aynı operasyon dahilinde gerçekleşen ve çok daha fazla tepki çeken şey ise Barselona’nın önemli işgal evlerinden biri olan Kasa de la Muntanya’ya yapılan baskındı. Bu baskın sonucunda gözaltıların yanı sıra aktivistlerin bilgisayar ve telefonlarına da el koyuldu. Operasyon ile ilgili bu çok önemli bir ayrıntı. Çünkü hakimin terörizm şüphesi ile baskın izini vermesinin en önemli dayanağı, Kasa de la Muntanya’daki aktivistlerin &lt;a href=&quot;https://riseup.net/&quot;&gt;riseup.net&lt;/a&gt;’in şifrelenmiş elektronik posta hizmetini kullanmalarıydı.&lt;/p&gt;
+
+&lt;p&gt;Bu gerekçe, İspanya devletinin kişisel bilgi güvenliğine nasıl baktığını göstermesinin dışında terör tanımının ne kadar da muğlak ve esnek olabileceğini örneklendiriyor.&lt;/p&gt;
+
+&lt;p&gt;Bu nedenle, geçirilen anti-terör yasasının, “cihatçı” tehdidinin ötesinde İspanya’nın kendi iç muhalefetine karşı da kullanılacağını rahatlıkla söyleyebiliriz.&lt;/p&gt;
+
+&lt;p&gt;İç güvenlik paketinin hedef aldığı muhalif oluşumların arasında, Pandora Operasyonu’ndan da anlaşılacağı üzere, işgal evleri de önem taşıyor. Paketin getirdiği değişikliklere göre, sokak muhalefetinin geliştiği önemli mekanlar olan işgal evlerinde bulunmak bile para cezasına tabi tutulmuş durumda.&lt;/p&gt;
+
+&lt;p&gt;Bu cezaların sadece işgal evleri için değil sosyal merkez olarak kullanılan mahalle evleri için de geçerli olduğu göz önüne alındığında, konunun basit bir özel mülkiyetin koruma altına alınması durumu olmadığı, aksine cezaların bizzat toplumsal muhalefeti hedef aldığı ortaya çıkıyor.&lt;/p&gt;
+
+&lt;h2 id=&quot;i̇şgal-evlerinde-bulunana-100-ila-600--arası-ceza&quot;&gt;&lt;strong&gt;İşgal evlerinde bulunana 100 ila 600 € arası ceza&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Bu yeni cezanın bir diğer hedefi de 2009’dan beri yükselen barınma hakkı hareketi ve bu hareketin başını çeken &lt;a href=&quot;http://bianet.org/biamag/siyaset/163004-musterek-bir-kent-icin-belediyeleri-kazanmak&quot;&gt;PAH&lt;/a&gt;‘ın (&lt;em&gt;Plataforma d’Afectats de la Hipoteca -&lt;/em&gt; İpotek Mağdurları Platformu) stratejileri. 2009 yılında ABD’dekine benzer bir &lt;em&gt;morgage&lt;/em&gt; krizinin İspanya’yı da etkileyeceğini öngörerek Barselona’da kurulan PAH, bugüne gelindiğinde İspanya’nın her yerine yayılmış, ülkenin tartışmasız en önemli sokak hareketi haline gelmiş durumda.&lt;/p&gt;
+
+&lt;p&gt;İpotek mağdurlarına yasal destek vererek vatandaşların borçlarını insani şartlarda ödeyebilmeleri için bankalara baskı yapan PAH’ın stratejileri arasında sivil itaatsizlik de var. Bunlardan en etkileyici ve dikkat çekici olanı bankaların ödenemeyen borçlar karşılığında el koyduğu ve boş tuttuğu evleri işgal ederek evsiz kalmış ipotek mağdurlarının barınma gereksinimlerinin karşılanmasını sağlamak.&lt;/p&gt;
+
+&lt;p&gt;Kısacası kriz sonrası İspanya’sında, &lt;em&gt;okupa&lt;/em&gt; yani işgal evi kültürü, kendi sosyo-kültürel alanının dışına yayılarak halkın daha geniş kesimlerinin pratiklerine girmiş durumda.&lt;/p&gt;
+
+&lt;h2 id=&quot;ev-tahliyelerine-engel-olmaya-600-ila-30-bin--arası-ceza&quot;&gt;&lt;strong&gt;Ev tahliyelerine engel olmaya 600 ila 30 bin € arası ceza&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://bianet.org/resim/olcekle/67128/250/294&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ev tahliyelerini durdurmaya çalışmak 30.000€ -“Yani, özetle… Gizlemeye ne gerek var?” Kaynak: el diario.&lt;/p&gt;
+
+&lt;p&gt;Güvenlik yasasının hedef aldığı PAH eylemleri, sadece işgal evleri örneğinden ibaret değil. Yeni cezalar aynı zamanda, kurulduğundan beri PAH’ın yapmakta en başarılı olduğu eylem biçimi olan ev tahliyelerinin engellenmesini de suç olarak tanımlıyor ve bunlara 600 ila 30,000 avro arası para cezası öngörüyor.&lt;/p&gt;
+
+&lt;p&gt;Bunda en büyük etkenin, PAH’ın kurulduğundan beri durdurmayı başardığı bine yakın ev boşaltması olduğu şüphesiz.&lt;/p&gt;
+
+&lt;p&gt;Burada altı çizilmesi gereken nokta, İspanya’nın borç ve ipotek konusunda Avrupa’nın en baskıcı yasalarına sahip olması.&lt;/p&gt;
+
+&lt;p&gt;Barınma hakkı ihlali nedeniyle PAH’ın &lt;a href=&quot;http://www.catalannewsagency.com/society-science/item/the-european-court-of-human-rights-temporarily-stops-the-eviction-of-an-apartment-block-near-girona&quot;&gt;Avrupa İnsan Hakları Mahkemesi&lt;/a&gt;’ne açtığı dava sonunda İspanya haksız bulunmuş ve ipotek mağdurlarının işgal ettiği Salt bloklarının tahliyesi durdurulmuştu.&lt;/p&gt;
+
+&lt;p&gt;Kısacası ifade özgürlüğü ve gösteri hakkını kısıtlayarak sokak muhalefetinin önünü kesmeyi planlayan PP iktidarının başını en çok ağrıtan mücadelenin kent hakkı olduğu anlaşılıyor.&lt;/p&gt;
+
+&lt;h2 id=&quot;türkiye&quot;&gt;&lt;strong&gt;Türkiye&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Peki Türkiye’deki iç güvenlik paketi süreciyle çok önemli paralellik taşıyan İspanya’daki sürecin bizlerle, yani Türkiye’nin sosyal hareketleriyle ne gibi bir ilgisi var? Ya da kısacası, İspanya’da olanlarla neden ilgilenmeliyiz?&lt;/p&gt;
+
+&lt;p&gt;Bu sorunun cevabı, Türkiye ekonomisinin Batılı yatırımcıya duyduğu ihtiyaç ile ilintili. Özellikle kentsel müştereklerini Batılı yatırımcıya pazarlayabilmek için elinden geleni yapan devletin de bu Batılı yatırımcının gözünü korkutmaması gerekiyor.&lt;/p&gt;
+
+&lt;p&gt;Kentsel mücadele, bu müştereklerin yatırım tarafından özelleştirilmesine zaman zaman engel olabilse de, kent hakkı mücadelesini bastırmakta kullanılan şiddetin dozajı da bu yatırımcıların kabul edebileceği bir düzeyde kalmak durumunda.&lt;/p&gt;
+
+&lt;p&gt;Bunun en önemli göstergesi, AKP kurmaylarının yurtdışı basınına verdiği röportajlarda mevcut. Örneğin Mevlüt Çavuşoğlu’nun Gezi isyanları sırasında CNN’de Christiane Amanpour’a verdiği röportajda üstüne basa basa AKP hükümetinin otoriter olmadığını ifade ettiğini, hatta polisin ilk müdahalesinde aşırı güç kullandığını ve sorumlular hakkında soruşturma açılacağını bile söylediğini hatırlamak gerek.&lt;/p&gt;
+
+&lt;p&gt;Dolayısıyla Avrupa’da ve Atlantik’in ötesinde yaşanılan her insan hakları ihlalinin, Türkiye için, yeri geldiğinde zorlanabilecek, ancak görüntüde aşılmaması gereken bir üst limit referansı halini aldığını söyleyebiliriz.&lt;/p&gt;
+
+&lt;p&gt;Vatandaşının sokak muhalefetini bastırma konusunda yönetimlerin birbirinden örnek aldığını söylemek yanlış olmaz. &lt;em&gt;Ojo con tu ojo&lt;/em&gt; hareketinin de önemli katkılarıyla başarıyla sona eren “&lt;a href=&quot;http://www.bianet.org/bianet/insan-haklari/155401-katalonya-plastik-mermiyi-yasakladi&quot;&gt;STOP bales de goma&lt;/a&gt;” (plastik mermiye dur de) kampanyası sonrası çıkan, İspanya’nın Türkiye’den TOMA alabileceği haberlerine bakılırsa, üst limit olarak Avrupa standartlarını benimseyen Türkiye’nin mükemmelleştirdiği “toplumsal olay kontrolü” tekniklerinin dönüp dolaşıp Avrupa’ya ihraç edilebildiği anlaşılıyor.&lt;/p&gt;
+
+&lt;p&gt;Baskı mekanizmalarını paylaşan muktedirlerine karşı en önemli savunma ise, farklı ülkelerin sokak muhalefetlerinin de iletişim halinde olarak direnişte ortaklık kurması. Bu açıdan İspanya’dan olanlardan haberdar olmak ve iç güvenlik paketlerine karşı mücadeleleri ortaklaştırmak elzem bir önem taşıyor. (BK/YY)&lt;/p&gt;
+
+&lt;p&gt;[1] Bu polis cinayetinden &lt;a href=&quot;http://bianet.org/biamag/siyaset/163004-musterek-bir-kent-icin-belediyeleri-kazanmak&quot;&gt;Müşterek Barselona&lt;/a&gt; yazımda kısaca bahsetmiştim.&lt;/p&gt;
+
+&lt;p&gt;[2] Operasyonlardan ikincisi de 30 Mart 2015 tarihinde yapılan &lt;a href=&quot;http://wiki.15m.cc/wiki/Operaci%C3%B3n_Pi%C3%B1ata&quot;&gt;Operacion Piñata&lt;/a&gt; idi. Daha geniş kapsamlı bu operasyon İspanya’nın Madrid ve Barselona şehirlerinin yanı sıra birkaç şehrinde daha yapıldı. Toplam 39 kişi tutuklandı; çoğu ifadeden sonra denetimli veya normal olarak serbest kaldı, 5 kişi ise hapiste.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2015-04-25-ispanya-icguvenlik/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2015-04-25-ispanya-icguvenlik/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Müşterek Bir Kent İçin Belediyeleri Kazanmak</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;p&gt;&lt;em&gt;Bu yazı ilk olarak 13 Mart 2015 tarihinde &lt;a href=&quot;https://bianet.org/bianet/biamag/163004-musterek-bir-kent-icin-belediyeleri-kazanmak&quot;&gt;Bianet’te yayınlandı&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; height=&quot;330&quot; src=&quot;https://bianet.org/system/uploads/1/articles/spot_image/000/163/004/original/fig01.jpg&quot; width=&quot;510&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Avrupa'da SYRIZA'nın başarısı ve yükselen Podemos dalgasının geri planında kalmış, dolayısıyla uluslararası medya tarafından göz ardı edilen ancak çok daha önemli bir seçim hareketleri ağı, İspanya’da şu an harekete geçmiş durumda. Krizin yarattığı yıkımdan hâlâ tam olarak kurtulamamış İspanya'da, yoksullaştırılmaya ve politik elitin her geçen gün ayyuka çıkan yolsuzluklarına karşı kendinden örgütlenmiş vatandaş platformları, 2015 yılında gerçekleşecek yerel seçimlerde şehirlerini geri almaya hazırlanıyor. Katalanca “kazanalım” anlamına gelen “&lt;em&gt;Guanyem&lt;/em&gt;” ismiyle Barselona'da başlayan bu yerel yönetimci hareketler nasıl ortaya çıktı ve İspanya'da politik değişim için sahip oldukları potansiyel tam olarak ne?&lt;/p&gt;
+&lt;h2&gt;“Yapabiliriz”den &quot;Kazanalım”a&lt;/h2&gt;
+&lt;p&gt;Bahsedilen hareketler, çekirdek bir kadroyla Madrid’den &lt;a href=&quot;http://bianet.org/biamag/siyaset/162676-podemos-hakkinda-bilinmeyenler&quot;&gt;başlayıp&lt;/a&gt; bütün ülkeye hitap eden Podemos’un aksine, yatay örgütlenmeci, yerel hareket ağlarından oluşuyor ve yılların sokak hareketlerinin birikimini kent yönetim araçlarını ele geçirmek için kullanmayı amaçlıyor. Bir diğer yandan kendi deyişleriyle, “parti isimleri harf çorbası” bir koalisyonun ötesinde, sosyal hareketler ve geniş yelpazeden sol siyasi partiler birlikteliğiyle oluşturulacak yerel seçim platformları olmayı hedefliyorlar.&lt;/p&gt;
+&lt;p&gt;Şu an İspanya’nın 70’ten fazla kent ve kasabasına yayılan bu hareketlerin başlangıç sinyaliyse, ülkenin küresel kent markası olan Barselona’da verildi. Bir yandan kentsel dönüşüm ile kamusal alan talanının İspanya ayağı olan Barselona, diğer yandan da sosyal hareketlerin tarihsel olarak çok güçlü olduğu bir metropol. Bu iki çelişkili gibi gözüken faktörün birlikte var olduğu bu kentte de, birçok toplumsal alanda çatışmanın yaşanmaması neredeyse imkânsız. Böylece 2011 yılının 15M meydan işgalleri ve toplu eylemlerinin ardından, bu çatışma mevzilerine yerel seçim mücadelesi de eklenmiş oldu.&lt;/p&gt;
+&lt;p&gt;26 Haziran 2014 tarihinde şehri kazanmak için bir platform çalışmasına başlayacağını &lt;a href=&quot;https://guanyembarcelona.cat/lets-win-barcelona/&quot; target=&quot;_blank&quot;&gt;açıklamış olan&lt;/a&gt;, eski adıyla &lt;em&gt;Guanyem Barcelona &lt;/em&gt;(Barselona’yı Kazanalım), yeni adıyla “&lt;a href=&quot;https://www.barcelonaencomu.cat/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Barcelona en comú&lt;/em&gt;&lt;/a&gt;” (Müşterek Barselona), bu yıl 24 Mayıs'ta gerçekleştirilecek olan yerel seçimler için yapılan &lt;a href=&quot;http://www.lavanguardia.com/local/barcelona/20150221/54426405696/trias-colau-elecciones-barcelona.html&quot; target=&quot;_blank&quot;&gt;son ankette&lt;/a&gt; ufak bir farkla ikinci sırada.&lt;/p&gt;
+&lt;p&gt;Franco’nun ölümünün üzerinden geçen 30 yıldan fazla süredir sosyal demokratların (&lt;em&gt;Partit dels Socialistes de Catalunya,&lt;/em&gt; PSC), son seçimlerde de ilk kez Katalan merkez sağı CiU'nun (&lt;em&gt;Convergència i Unió&lt;/em&gt;) hakim olduğu belediye yönetiminde bir kırılma yaratma potansiyeline sahip bu hareket, şehri kazanma noktasına nasıl geldi?&lt;/p&gt;
+&lt;h2&gt;Bir kırılma: Kente ilk kadın belediye başkanı&lt;/h2&gt;
+&lt;p&gt;&lt;img origwidth=&quot;500&quot; origheight=&quot;330&quot; imgid=&quot;66346&quot; src=&quot;https://bianet.org/resim/olcekle/66346/500/330&quot; height=&quot;330&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Müşterek Barselona’nın şu anki liste başı, yani olası belediye başkan adayı Ada Colau, İspanya'nın tartışmasız en önemli sosyal hareketi olarak kabul edilen PAH (&lt;em&gt;Plataforma d'Afectats per la Hipoteca -&lt;/em&gt; İpotek Mağdurları Platformu) sözcülüğünden geliyor.&lt;/p&gt;
+&lt;p&gt;2009 yılının Şubat ayında, ABD'nin &lt;em&gt;mortgage&lt;/em&gt; krizinin İspanya'yı da etkileyeceği öngörüsüyle kurulan PAH, 2011’den itibaren hızla büyüyerek bütün ülkeye yayıldı. Eylemleri arasında ipotek mağdurlarına yasal danışmanlık desteği vermenin yanı sıra, ev tahliyelerini sivil itaatsizlikle durdurmak ve bu süreçte evsiz kalanları, işgal ettikleri evlere yerleştirmek de var.&lt;/p&gt;
+&lt;p&gt;PAH’ın doğrudan eylem stratejisinin başarısı, sadece kurulmasının ilk iki yılı içerisinde durdurduğu 250 ev tahliyesinden anlaşılabilir. Doğrudan eylem, PAH'ın kısa ve orta vadedeki stratejilerini kapsarken, uzun vadede örgütün ajandasında İspanya'nın cezalandırıcı düzeydeki ipotek ve barınma yasalarını değiştirmek var.&lt;/p&gt;
+&lt;p&gt;Ada Colau'nun İspanya çapında görünürlük kazanması ise meclise sundukları yasa tasarısı görüşmesinde yaptığı &lt;a href=&quot;https://www.youtube.com/watch?v=E_5LZJstTyA&quot; target=&quot;_blank&quot;&gt;konuşmadan&lt;/a&gt; da kaynaklanıyor. Meclis görüşmelerinde, İspanya borç yasalarını “muhteşem” olarak tanımlayan İspanyol Bankacılar Derneği (&lt;em&gt;Asociación Española de Banca, AEB&lt;/em&gt;) Genel Sekreteri Javier Rodríguez Pellitero’na, “Bu yasa yüzünden insanlar canlarına kıyarken bunu söyleyebiliyorsa, (...) bu beyefendi bir suçludur ve ona bu şekilde davranılması gerekir. Bu beyefendi bir uzman değildir, aksine şu anki sorunlarımızın, ülke ekonomisinin uğradığı yıkımın bizzat faillerindendir” demesi İnternet’te viral olarak yayılmıştı.&lt;/p&gt;
+&lt;h2&gt;Beynelmilel turizm ve vatandaş direnişi&lt;/h2&gt;
+&lt;p&gt;15M'nin meydan işgallerinin başladığı Puerto de Sol’un ve Podemos'un çekirdek kadrosunun Madrid’de bulunmasının tersine, yerel yönetimci barınma hareketinin Barselona'dan başlamasının önemli bir nedeni de kentsel dönüşüm ve markalaştırılmış Barselona’nın ürettiği kent rantı.&lt;/p&gt;
+&lt;p&gt;Barselona'nın kentsel dönüşüm macerasının son büyük halkası Franko sonrası geçiş dönemine ve seksenlerden itibaren uygulamaya konan ‘92 olimpiyatları hazırlık dönemine dayanıyor. Böylece diktatörlük döneminden kalan altyapı sorunları çözülmekle kalmamış, aynı zamanda Barselona bir marka haline gelerek hızlı bir dönüşümle, bir kentin -içinde vadettiği yaşantısıyla beraber- nasıl satılabilir bir meta olabileceğinin Avrupa'daki en önemli örneği haline gelmişti.&lt;/p&gt;
+&lt;p&gt;1990 yılında 1,7 milyon olarak hesaplanan kente gelen yıllık turist sayısının, 2014’te 10 milyonu geçmiş olması, bunun nicel olarak en çarpıcı göstergesi. Kentin, sakinleri için değil de misafirleri için tasarlanmış bir hale büründüğü bu durumda ortaya çıkan gerilimin son dalgası geçen yılın Ağustos ayında, deniz kıyısındaki Barceloneta Mahallesi’nde haftalar süren eylemlerle somutlaşmıştı. Sorunun kent rantıyla olan bağlantısının bilincinde olan -o zamanki adıyla- Barselona’yı Kazanalım Platformu da eylemlerin önemli &lt;a href=&quot;http://www.theguardian.com/commentisfree/2014/sep/02/mass-tourism-kill-city-barcelona&quot;&gt;aktörlerindendi.&lt;/a&gt; Gösterilerin en önemli hedefi ise, mahallede emlak piyasası spekülasyonuna neden olan özellikle AirBnB turistik dairelerinin denetime tabii tutulmamasıydı. Duruma müdahale etmek zorunda kalan belediye ise, her ne kadar sorunlu münferit daireleri temizleyebilmiş olsa da, her halükarda şehri temizlemek üzere mahalleliyi hedef alan kent planı, durumun kronikliğinin devam ettireceğini gösteriyor.&lt;/p&gt;
+&lt;h2&gt;Barselona’da işleyen “yerel güvenlik paketi”&lt;/h2&gt;
+&lt;p&gt;&lt;img origwidth=&quot;250&quot; origheight=&quot;333&quot; imgid=&quot;66349&quot; src=&quot;https://bianet.org/resim/olcekle/66349/250/333&quot; align=&quot;right&quot; border=&quot;5&quot; height=&quot;333&quot; hspace=&quot;5&quot; vspace=&quot;5&quot; width=&quot;250&quot; /&gt;Yüksek turist nüfusu doğrudan ve dolaylı olarak güvenlik sorunlarına da yol açıyor. Bu güvenlik sorununun öznesi hem kendini kaybeden turistler hem de turistleri hedef alan &quot;tehlikeli&quot; mahalleli. Yatırımcıların ağzını sulandıran ve bu nedenle temizlenmesi gereken eski şehir merkezi (&lt;em&gt;Ciutat Vella&lt;/em&gt;) bu nedenle polisin göz korkutmalarına, tehditlerine, saldırılarına hatta cinayetlerine sahne oluyor. Bunun en güncel örneği 2013 yılında Barselona'nın Tarlabaşı’sı olarak düşünülebilecek eski şehrin Raval Mahallesinde yaşayan Juan Andrés Benítez’in polis tarafından öldürülmesiydi. Komşusuyla girdiği tartışma üzerine bölgeye gelen 10’dan fazla polisin, kavga bitmiş olmasına rağmen üzerine hücum ederek Benítez’i öldürmelerini komşuları &lt;a href=&quot;https://www.youtube.com/watch?v=VbJUuSFggHk&quot; target=&quot;_blank&quot;&gt;kaydetmiş&lt;/a&gt; ve bu cinayet aylarca Katalunya gündemini meşgul etmişti. Benítez'in de dahil olduğu Raval eşcinsel camiası için bu yaşananlar münferit değil, sistematik bir şiddeti temsil ediyor. Bunun bir diğer örneği de yine aynı yılın Eşcinsel Onur Haftası sırasında, 28 Haziran gününde mahallenin en işlek eşcinsel/&lt;em&gt;queer&lt;/em&gt; barlarına düzenlenen &lt;a href=&quot;https://directa.cat/em-va-recordar-fets-dstonewall-dara-fa-44-anys-però-al-centre-de-barcelona&quot; target=&quot;_blank&quot;&gt;toplu polis baskınlarıydı&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Devlet ve belediye için diğer bir güvenlik konusu ise &lt;em&gt;okupalar&lt;/em&gt; (işgal evleri). Barselona'daki son isyan dalgası, emekçi mahallesi Sants'ın en sembolik mahalle evi ve okupası &lt;em&gt;Can Vies&lt;/em&gt;'ın 2014 Avrupa Parlamento seçimleri sonrası tahliye edilmeye çalışılmasıydı. Binanın bir gece operasyonuyla yıkılmaya çalışılmasının ardından bir hafta süren sokak çatışmaları yaşanmış ve polis araç giriş-çıkışlarını engellediği mahalleyi ablukaya almıştı. Ancak bir haftanın sonunda Belediye sokağın tepkisine boyun eğmek zorunda kalmış ve mahalle evinin inşaatı sosyal hareketlerin çabalarıyla tekrar başlamıştı. Can Vies'ın bir belediye şirketi olan TMB raylı sistem işletmelerine bağlı olması ve eylemlerde çevik kuvvet görevi de gören Barselona Şehir Polisi’nin (&lt;em&gt;Guardia Urbana&lt;/em&gt;) doğrudan belediyeye bağlı olması, bu polislerin soruşturulabilmesi ve hatta şiddetin durdurulabilmesi için yerel yönetimin kazanılmasını mücadelenin önemli bir parçası haline getiriyor. Müşterek Barselona, sadece bu grupları temsil etmeyi vaat etmiyor, aksine bu gruplar bizzat seçim birlikteliğinin içinde yer alıyor.&lt;/p&gt;
+&lt;h2&gt;Koalisyon değil birliktelik&lt;/h2&gt;
+&lt;p&gt;Barselona'nın bu sorunlarını belediyeyi kazanarak çözmeyi planlayan Müşterek Barselona hareketi, 15M sonrası ve diğer oturmuş sosyal hareketlerin deneyimini ve hafızasını taşıyor. Konseyci yatay örgütlenmeyi benimsemiş bu gruplar, öncelikli planlarını diğer siyasi oluşum ve partilerle beraber bir birliktelik (&lt;em&gt;Confluència&lt;/em&gt;) oluşturmak olarak belirlediler. Bu birlikteliğin attığı ilk adım bir yerel yönetimler &lt;a href=&quot;https://barcelonaencomu.cat/sites/default/files/pdf/codi-etic-eng.pdf&quot; target=&quot;_blank&quot;&gt;“etik ilkeleri”&lt;/a&gt;nin belirlenmesi oldu. Bu paydaşlar arasında Podemos, &lt;em&gt;Procés Constituent&lt;/em&gt; gibi nispeten yeni (ve 15M sonrası) hareketlerin yanı sıra Katalunya'nın Birleşik Sol Partisi (&lt;em&gt;Izquierda Unida&lt;/em&gt;) olan Yeşiller (&lt;em&gt;Iniciativa per Catalunya Verds&lt;/em&gt;, ICV) de var.&lt;/p&gt;
+&lt;p&gt;Şubat ayının başında seçim stratejilerini açıklayan Müşterek Barselona, bu birlikteliği kabul eden paydaşların eşit katılımının olacağı bir yerel yönetim listesi belirledi. Olası ilçe yöneticileri (&lt;em&gt;regidor/regidora&lt;/em&gt;) arasında Yeşiller siyasetçisi, akademisyen, aktivist avukat, sokak hareketi ve mahalle örgütleri temsilcileri gibi geniş bir yelpazeden kişiler mevcut. Belediye meclisi temsilcilerini bir ön seçimle belirlemiş olan Müşterek Barselona, bunu İnternet aracılığıyla yaparak aynı Podemos gibi vatandaşın yönetime katılımında yenilikçiliği benimediğini gösterdi. Ön seçimler 12 Mart'a kadar tamamlandı ancak seçim sonrasında da karar alma sürecinde bu katılımcı modelin devam etmesi bekleniyor.&lt;/p&gt;
+&lt;h2&gt;Katalan sağının tepkisi&lt;/h2&gt;
+&lt;p&gt;Son anketler seçimin Katalan merkez sağ partisi CiU’nun temsilcisi Xavier Trias ile Müşterek Barselona'nın adayı Ada Colau arasında geçeceğini gösteriyor. Tıpkı İspanya merkez sağ iktidarı gibi, Katalan iktidarı da son aylarda yolsuzluk soruşturmaları ile sarsılıyor. CiU’nun kurucu lideri Jordi Pujol ve parti eski genel sekreteri, oğlu Oriol Pujol Ferrusola'nın Andorra'daki gizli hesapları ve şirketlerinden CiU'ya aktarılan yüzde 3’lük komisyonlar, İspanya'nın tümünde konuşulan güncel yolsuzluk haberleri arasında. Jordi Pujol’un Katalunya Parlamentosu tarafından soruşturulmaya başlaması ise Podemos ve o zamanki adıyla Guanyem’in ortak hazırladığı suç duyurusu yoluyla oldu. Ancak kamuoyunun CiU’ya olan artan güvensizliğine rağmen, anketler Trias'ın Barselonalılar tarafından onaylandığını gösteriyor.&lt;/p&gt;
+&lt;p&gt;Trias'ın kendisi de yarışın çok yakın olduğunun farkında ki, söylemini Müşterek Barselona’nın güçlü olduğu konulara endekslemiş durumda. Belediyenin bütçesinden yapılan, reklam ve bilgilendirmelerde üzerinde durulan konulardan en baskın olanının barınma olması bunun bir göstergesi. Diğer yandan aktif Twitter hesabından kendi politikalarını &quot;devrimci” olarak &lt;a href=&quot;http://twitter.com/KateSB/status/568707516680548352&quot; target=&quot;_blank&quot;&gt;tanımlayan&lt;/a&gt; Trias'ın bu söylemiyle CiU’nun klasik tabanının ötesine hitap etmeye çalıştığı anlaşılıyor. Ancak bu stratejinin ne derece etkili olacağı seçimler yaklaştıkça görülecek. Müşterek Barselona platformunun yaşadığı bir diğer saldırı da isim değiştirmelerine neden olan patentleme vakasıydı. İspanyol merkez sağ partisi &lt;em&gt;Partido Popular&lt;/em&gt;’ın (PP) Valensiya örgütü üyelerinden biri, ‘Guanyem’ ismi için patent başvurusu yapmış ve bu başvurusu Guanyem’inkinden çok daha hızlı bir şekilde kabul edilmişti. Her halükarda, PP’nin bu bel altı saldırısı ve Katalunya'daki iktidar partisinin yerel seçimlerdeki bu savunmacı kampanyası, anketler de göz önüne alındığında, Müşterek Barselona’nın belediyeyi kazanma imkanının gerçekten yüksek olduğunu gösteriyor.&lt;/p&gt;
+&lt;h2&gt;“Kazanalım” virüsü&lt;/h2&gt;
+&lt;p&gt;&lt;img origwidth=&quot;500&quot; origheight=&quot;354&quot; imgid=&quot;66350&quot; src=&quot;https://bianet.org/resim/olcekle/66350/500/354&quot; height=&quot;354&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Bir yerel seçim mücadelesinin Avrupa ve dünyadaki sol mücadele için ne gibi bir önemi olabileceği sorusunun cevabı, Müşterek Barselona'nın manifestolarında saklı. Yeni demokratik bir devrimin tohumlarını atmayı amaçladıklarını ifade eden Müşterek Barselona, farklı şehirlerin yerel örgütlerinin kendi seçim platformlarını kurmaları için bir &lt;a href=&quot;https://drive.google.com/a/uclg.org/file/d/0B7uvEZ_zV-15NnRCVWdMRWdWYkE/view&quot; target=&quot;_blank&quot;&gt;kılavuz&lt;/a&gt; hazırlayarak bunu gerçekleştirmek için çağrıda bulundu.&lt;/p&gt;
+&lt;p&gt;Bu çağrı İspanya'nın geri kalanında da karşılık buldu ki, &lt;em&gt;Diagonal&lt;/em&gt;’in &lt;a href=&quot;https://www.diagonalperiodico.net/global/25880-mapa-estatal-del-asalto-municipalista.html&quot; target=&quot;_blank&quot;&gt;haberine&lt;/a&gt; göre en az 70 farklı yerelde, Müşterek Barselona'dan bağımsız “Kazanalım” platformları kuruldu. Böylece kendiliğinden yayılan, öz-örgütlenmeci &quot;kazanalım&quot; hareketleri, bir yandan Madrid merkezli Podemos'a örgütsel bir alternatif oluştururken diğer yandan siyaset ortaklıkları nedeniyle, Barselona başta olmak üzere, bir çok şehirde Podemos’u içinde barındırıyor. Farklı ölçekteki siyasetlerin ürettiği farklı sol siyasi stratejileri ile çeşitliliği bol İspanya'nın bu seçim yılında başaracakları, gelecek yıl gerçekleşecek olan genel seçimler için bir öncül olmakla kalmayacak, parlamentarist demokrasi ile hemhal olan solun ne kadar radikal bir değişim getirebileceğinin bir sınavı da olacak.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;p&gt;&lt;em&gt;Fotoğraf bilgisi:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resim 1 Vatandaş platformu Müşterek Barselona'nın şehri kazanmaya aday ekibi (Kaynak: &lt;a href=&quot;https://barcelonaencomu.cat/sites/default/files/press/equipada_1_0.jpg&quot; target=&quot;_blank&quot;&gt;Müşterek Barselona web sitesi&lt;/a&gt;) &lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resim 2 Ada Colau ve PAH (Kaynak: bilinmiyor)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resim 3 &quot;Normal olan ismini değiştirmektir: Eskiden Cassius Clay, sonradan Muhammed Ali. 'Kazanalım' şimdi 'Müşterek Barselona' &quot; (Kaynak: Movimiento de Liberación Gráfica de Barcelona)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resim 4 2015 seçimlerindeki yerel yönetimci projeler (Kaynak: &lt;a href=&quot;https://www.diagonalperiodico.net/global/25880-mapa-estatal-del-asalto-municipalista.html&quot; target=&quot;_blank&quot;&gt;diagonal periodico&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2015-03-13-musterek-barcelona/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2015-03-13-musterek-barcelona/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Podemos Hakkında Bilinmeyenler</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;p&gt;&lt;em&gt;Bu yazı ilk olarak 27 Şubat 2015’te &lt;a href=&quot;https://bianet.org/bianet/biamag/162676-podemos-hakkinda-bilinmeyenler&quot;&gt;Bianet’te yayınlandı&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;SYRIZA’nın Yunanistan’da iktidara gelmesiyle gözler Avrupa’nın bir diğer borçlu
+ülkesi İspanya’ya ve bu ülkenin yükselen sol partisi Podemos’a döndü. Ancak
+Podemos hakkında yazılanların bazıları “İspanya’nın SYRIZA’sı” tanımının
+ötesine geçemeyerek sığ kalıyor. Peki, İspanya’nın kendi şartlarında,
+SYRIZA’dan çok farklı bir yoldan geçerek iktidara oynayan bu sol parti ortaya
+çıkışında hangi stratejiyi benimsedi ve bu çerçevede başarısını nelere borçlu?&lt;/p&gt;
+
+&lt;h3 id=&quot;neden-bir-syriza-değil&quot;&gt;Neden bir SYRIZA değil?&lt;/h3&gt;
+
+&lt;p&gt;Bir koalisyon olarak 10 yıldan uzun bir tarihi olan SYRIZA ile Podemos’un
+farkı, öncelikle kuruluş ve büyüme hızlarında görülüyor. Podemos’un temelleri,
+Birleşik Sol Parti’nin (Izquierda Unida, IU) bileşenlerinden Troçkist,
+Antikapitalist Sol’un (Izquierda Anticapitalista, IA) Avrupa Parlamentosu seçim
+strateji bültenine dayanıyor. Bu &lt;a href=&quot;http://www.zonaizquierda.org/X_docs/_CONTENIDOS/Podemos.pdf&quot;&gt;bülten&lt;/a&gt;, öfkelilerin (Indignados) hissiyatını
+yansıtan, merkez sağ Halk Partisi (Partido Popular, PP) ve merkez sol İspanya
+Sosyalist İşçi Partisi (Partido Socialista Obrero Español, PSOE) çift partili
+sisteminden kopuşu sağlayacak, medyatik yeni bir yüzün liderliğini yapacağı bir
+seçim çalışmasını öngörüyordu.&lt;/p&gt;
+
+&lt;p&gt;Bültenin hemen ardından, 2014 yılının Ocak ayında “Mover ficha” (hamle yapmak)
+manifestosuyla ortaya çıkan Podemos hareketi, ilk hedeflerini en az 50 bin imza
+toplamak olarak belirledi ve bunu 24 saat içinde gerçekleştirdi. Bu olgu,
+partinin neredeyse 4 ay içerisinde yüzde 8’lik bir oy potansiyeline sahip,
+Avrupa Parlamenterli bir güç haline gelmesiyle birleştirildiğinde, Podemos’un
+SYRIZA’dan ne kadar farklılaştığının diğer önemli bir örneği oluyor.&lt;/p&gt;
+
+&lt;p&gt;Podemos’un Avrupa Parlamentosu seçimlerini hedef almasının önemli bir
+nedeninin, seçmenin bu seçimlere ilgisinin genel olarak düşük olması ve 2011
+sonrası politize olmuş kitlelerin seçime kanalize edilerek belli bir başarı
+kazanabilme ihtimali olduğu düşünülebilir. Podemos’un beklenmeyen bir başarı
+ile çıktığı bu seçimler sonrası yapılan &lt;a href=&quot;https://blogs.elpais.com/metroscopia/2014/06/elecciones-europeas-el-fenomeno-podemos.html&quot;&gt;anketler&lt;/a&gt; de gösteriyor ki, Podemos
+seçmeninin önemli bir kısmı (yüzde 42,5) daha önce AP seçimlerinde oy
+kullanmamış.&lt;/p&gt;
+
+&lt;h3 id=&quot;öncü-seçmen-kitlesi-neden-beyaz-yakalı&quot;&gt;Öncü seçmen kitlesi neden beyaz yakalı?&lt;/h3&gt;
+
+&lt;p&gt;Podemos’u haberlere taşıyan seçim başarısının gerçek öznesi olan Podemos
+seçmeni profiliyse aslında düşünülenden çok farklı. Avrupa Parlamentosu
+seçimleri sonrasında yapılan aynı ankete göre, Podemos seçmeni çoğunlukla 35-50
+yaş arası yurttaşlardan oluşuyor ve seçmenin çalışan oranı (yüzde 50) diğer
+parti seçmenlerinden anlamlı bir şekilde ayrışmıyor. Ancak yükseköğretim mezunu
+yüzdesi ile eğitim düzeyi İspanya ortalamasının üstünde olan bu seçmen kitlesi,
+geçmiş seçimlerde de PSOE’yi tercih etmiş. Aslında genç işsizliğinde Avrupa’nın
+en yüksek oranlarına sahip olan İspanya için bu veri şaşırtıcı. Kemer sıkma
+politikası karşıtı sol bir partinin, genç işsiz nüfus yerine, orta yaşlı
+eğitimli çalışan nüfustan geniş destek alması çelişkili gibi görünüyor. Ancak
+bu nüfusun “çalışan” olmasının ne anlama geldiği, anket verileri içerisinde
+detaylandırılmamış. Bu noktada Podemos’un söylemsel hedefinin prekaryalaşmış
+beyaz yakalılar olduğunun da altını çizmek gerek. Post-endüstriyel sektörlerin
+baskın hale geldiği küresel ekonominin yaşadığı krizin, beyaz yakalı
+çalışanlarını da güvencesizleştirerek prekaryalaştırdığı bir gerçek.&lt;/p&gt;
+
+&lt;p&gt;Bunun en sembolik örneği, Podemos’un kendi Avrupa Parlamenterlerinden Lola
+Sánchez. Seçim öncesinde hayatını kazanmak için Cartegena şehrinde bir
+restoranda garson olarak çalışan Sánchez, siyaset bilimi ve sosyoloji çift
+diplomasına sahip. Adaylık basın toplantısında yaptığı konuşmada, restoranına
+gelen yerel bir politikacının durumuna şaşırmasını, “Ismarladığı cin toniği
+kafasına mı atsam, iltifatına teşekkür mü etsem bilemedim. (…) Ülkenin
+gerçeklerinden bihaberler” tespitiyle açıklayan Sánchez, Podemos’un sembolik
+güçlerinden önemli bir kanalı örneklendiriyor. Kısacası, küresel kriz içinde
+Podemos’un 2014 oylarının kültürel sermayesi yüksek olan kesimlerden gelmiş
+olması, işçi sınıfının oylarını almadıkları anlamına gelmiyor. Aksine
+İspanya’nın emek piyasasının krizine, doğru bir şekilde hitap ettiklerini
+gösteriyor.&lt;/p&gt;
+
+&lt;p&gt;Alışıldık politize sosyalist ve devrimci hedef kitlenin dışına çıkarak, ana
+akımı bu harekete eklemlemenin en önemli handikaplarından biri, Podemos’un
+İspanya’nın radikal sokak hareketlerini projesine ne kadar dâhil edebildiği.
+Ancak bu konuyu konuşabilmek için önce Podemos’un söylemsel stratejisini
+anlamak gerekiyor.&lt;/p&gt;
+
+&lt;h3 id=&quot;neden-radikal-sol-bir-parti-değil&quot;&gt;Neden radikal sol bir parti değil?&lt;/h3&gt;
+
+&lt;p&gt;Her ne kadar Podemos seçmeni çoğu zaman kendisini sol olarak tanımlasa da parti
+kendisini sağ ya da sol bir parti olarak ifade etmekten uzak duruyor. Bu diskur
+PP ve PSOE’li çift parti sisteminden kopuşu simgelese de Podemos bilinçli
+olarak sınıf siyaseti söyleminden uzak duruyor.&lt;/p&gt;
+
+&lt;p&gt;Bu söylemin ana nesnelerinden biri “kast” göstereni. Sınıfsal diskurun
+ezen/ezilen, burjuva/proleter sembollerinin söylemsel cephanesini tükettiğini
+düşünen Podemos çekirdek kadrosu, Avrupa’nın içinde bulunduğu troyka güdümlü
+kemer sıkma politikalarına karşı farklı bir çatışmayı kullanıyor. “Kast”
+ifadesi tam olarak son dönemde borç ve yolsuzluk skandallarıyla çırpınan Avrupa
+demokrasilerinin politikacı ve bankacılarının aynı insan kaynağı havuzundan
+gelmelerine işaret ediyor. İspanya’daki Partido Popular iktidarının şu anki
+Ekonomi Bakanı Luis de Guindos’un 2006’dan 2008’deki iflasına kadar Lehman
+Brothers Avrupa’nın danışmanlığını ve şirketin İspanya’daki bankasının
+yöneticiliğini yapmış olması bunun en güncel ve görünür örneği.&lt;/p&gt;
+
+&lt;p&gt;Podemos’un kast söylemi sadece söylemsel boyutta sol siyasetten uzaklaşmıyor,
+aynı zamanda siyaset olarak da partinin eksenini kaydırıyor. &lt;a href=&quot;https://www.evrensel.net/haber/104847/nereye-kadar-podemos&quot;&gt;Elif Görgü’nün çok
+iyi anlattığı&lt;/a&gt; bu kaymaya bir başka örnek ise Madrid İl Sekreteri Jesús
+Montero’nun “bütün patronlar kast değildir, bazıları sosyal refaha katkıda
+bulunur” yorumuydu. Bu sözüyle kastettiği Santander bankasının sahiplerinden
+Ana Botín’in, Montero’nun açıklamasından önce, İspanya’nın ekonomik büyümesini
+kastederek “Podemos ile amaçlarımız ortak” açıklaması yapması ise Montero’nun
+ifadesinin bir dil sürçmesi olmadığını gösterir nitelikte.&lt;/p&gt;
+
+&lt;p&gt;Kısacası bilinçli ve planlı olarak söylemlerini iktidar olmak üzerine
+tasarlayan Podemos’un radikal sol bir partiden çok popülist ve hatta yer yer
+pragmatist halkçı bir parti olduğunu söylemek daha doğru olur.  Ancak “Kast”ın
+karşısına “gente normal”i (normal halk) koyan İglesias’ın bu söylemsel
+başarısının ardındaki tek etkenin kullanılan semboller olmadığını anlayabilmek
+için partinin medya stratejisi tarihçesine bir gözatmak gerek.&lt;/p&gt;
+
+&lt;h3 id=&quot;podemosun-tek-adam-kültü&quot;&gt;Podemos’un “tek adam” kültü&lt;/h3&gt;
+
+&lt;p&gt;Podemos’un düzen partisi seçmenine hitap edebilmesinin en önemli nedeninin,
+partinin şu anki genel sekreteri Pablo İglesias ve onun medya görünürlüğü
+olduğu bilinen bir gerçek. Ancak bu duruma gelmiş olmanın hikâyesiyse değişen
+teknolojik şartların, politikaya nasıl güçlü bir şekilde etki edebildiğiyle
+doğrudan bağlantılı.&lt;/p&gt;
+
+&lt;p&gt;Madrid Computense Üniversitesi’nin genç akademisyenleri, Pablo İglesias ve
+-yine Podemos’un çekirdek kadrosundan- Juan Carlos Monedero’nun medyaya
+girişleri, 18 Kasım 2010 tarihinde internette yayınlanan La Tuerka isimli
+politik tartışma programına dayanıyor. Madrid’in yerel kanallarından Tele K
+tarafından hazırlanan bu yayın, kısa sürede internet aracılığıyla üne
+kavuşarak, geniş kitlelere erişmeye başladı. Özellikle İspanya’nın “gezisi”
+denilebilecek, Occupy Wall Street’in de öncülü 15M hareketinin, 2011 yılının 15
+Mayıs’ında gerçekleştiği düşünülürse, La Tuerka’nın ne kadar önemli bir zamanda
+yayına başladığı anlaşılıyor. Ancak İglesias’ın asıl sembolik gücü, bu
+popülerliğinin ardından davet edildiği ana akım televizyon tartışma
+programlarında, iktidar destekçileri ve sağcılara karşı verdiği soğukkanlı
+söylemsel mücadelede yatıyor.&lt;/p&gt;
+
+&lt;p&gt;Televizyonda “(kemer sıkmaktan) başka alternatif yok” ekonomistlerine karşı
+verdiği her yalın ve akla yatkın savunma, sosyal medyada viral olarak yayılma
+imkânı buluyor. Avrupa Parlamentosu seçimleri öncesinde Madrid merkezli önemli
+televizyon kanalı La Sexta’ya kadar uzanan rotası için de bu geçerliyken, şu an
+dahi televizyon analistleri İglesias’la polemiğe girmeye devam ederek
+İglesias’ın viral popülerliğini sürdürmesini sağlıyor.&lt;/p&gt;
+
+&lt;p&gt;Podemos’un görünürlüğü ve popülerliğinin temelini sağlamlaştıran bu çatışma
+platformu, doğal olarak bireyleri siyasi konuların önüne çıkarıyor. Dolayısıyla
+bu, Podemos’un da politik örgütsel yapısını bu kişi kültüne bağımlı kılıyor. Bu
+olgu sadece İglesias özelinde değil, Monedero ve diğer bir genç akademisyen
+olan Iñigo Errejon’un da karşılaştığı ana akım medya ithamları ve saldırıları
+vesilesiyle de gerçekleşiyor ve gerçekleşmeye hâlâ devam ediyor.&lt;/p&gt;
+
+&lt;p&gt;Bir yandan Podemos çekirdeğinin görünürlüğünün ve popülaritesinin artması, öte
+yandan da partinin hızla kurulması ve beklenilmeyecek düzeyde büyümesi,
+partinin de merkeziyetçi olarak yapılanmasına sebep oldu. IA’nın öncül bülteni
+ve Mover Ficha manifestosu, Podemos’u 15M’nin mirasçısı olarak kabul etse de,
+şu an Podemos kadrolarının da açıkça ifade ettiği, partinin merkeziyetçi ve
+hiyerarşik olarak örgütlenmiş olduğu. Karar alma mekanizmaları bir taraftan
+circulos (daireler) konseyleri aracılığıyla olurken diğer taraftan partinin ana
+karar alma mekanizması İglesias’ın genel sekreterliğini yaptığı Vatandaş
+Konseyi’nin (Consejo Ciutadania) elinde. Bu olgu 15M’nin ve uzantısı olan
+hareketlerin lidersiz ve adem-i merkeziyetçi yapısıyla uyumlu gözükmemekte.&lt;/p&gt;
+
+&lt;p&gt;Aslında, partinin örgütlenme şeması demokratik bir şekilde, internet
+oylamasının da mümkün olduğu, yüksek katılımlı bir vatandaş meclisi (Asamblea
+ciudadana) seçimiyle yapılmıştı. Ancak İglesias’ın önerdiği merkezî/hiyerarşik
+örgütlenme yüzde 80’den fazla bir oyla, yatay örgütlenmeci Sumando Podemos
+önerisini geçerek kabul edilmişti. Sumando Podemos önerisinin kabul
+edilmemesiyse, önerinin mimarlarından Pablo Echenique’nin dâhil olduğu
+Antikapitalist Sol grubunun Podemos projesinde artık hiç de baskın olmadığının
+bir göstergesi oldu.&lt;/p&gt;
+
+&lt;p&gt;Ancak altını çizmek gerekiyor: Podemos’un merkez komitesi denilebilecek
+Vatandaş Konseyi’nin yapısının, İspanya’nın sistem partilerinin yapılarından
+fersah fersah daha demokratik olacağını Pablo Echenique kendisi, daha Vatandaş
+Meclisi toplanmadan söylemişti. Bu demokratik örgütlülüğün en önemli unsurları
+da, yeni teknolojiler ve onların getirdiği özgün karar alma mekanizmaları.&lt;/p&gt;
+
+&lt;h3 id=&quot;siyasette-yeni-bir-güç-unsuru-tekno-politika&quot;&gt;Siyasette yeni bir güç unsuru: Tekno-politika&lt;/h3&gt;
+
+&lt;p&gt;Hızla büyümüş kendine ait bir sub-redditi bulunan Podemos, parti
+sempatizanlarıyla ve üyeleriyle arasındaki bağlantıyı bu şekilde sağlıyor.
+Diğer yandan redditin “oylama” yapısı sayesinde herhangi bir konudaki favori
+fikrin ne olduğu kolayca ortaya çıkmış oluyor ve en popüler cevap otomatik
+olarak oylanmış oluyor. Bu oylanan kararlar da parti yönetimi tarafından
+benimsenerek hemen işlerliğe geçiriliyor.&lt;/p&gt;
+
+&lt;p&gt;İspanya’nın sokak örgütlenmelerinin etkili bir hareket için dijital medyayı
+kullanmaları bir ilk değil. 15M sokak hareketleri ve meydan işgalleri
+sırasında, aktivistler sosyal medya ve internetin tüm avantajlarını kullanarak
+bu ilişkiyi kurdular. Ancak meydan işgallerinin sonlanmasının ardından ortaya
+çıkan en önemli sorulardan biri, yeni teknolojilerin nasıl farklı bir
+demokratik katılım şeklini ortaya çıkaracağıydı.&lt;/p&gt;
+
+&lt;p&gt;Podemos, şu an için bu soruya önemli bir cevap olmuş gibi görünüyor. Özellikle
+de -İspanya’daki en yüksek katılımla gerçekleşen- internet üzerinden oylamaya
+olanak sağlayan “Vatandaş Meclisi” düşünüldüğünde. Podemos’un özellikle bu
+konuda 15M ve sonrasındaki aktivizm birikiminin bir devamı olduğu
+söylenilebilir. Daha ilk aylarından Podemos’a desteğini açıklamış olan X
+Partisi (Partido X), yeni politik katılım teknolojilerini geliştirmesinin
+yanında, encrypt edilmiş (şifrelenmiş) e-posta sistemleriyle Wikileaks benzeri
+bir sızdırma hizmeti sunuyor. Bu girişimleri sayesinde, İspanya’nın son 3 ayını
+işgal eden &lt;a href=&quot;http://www.milliyet.com.tr/ispanya-da-kredi-karti-skandali/ekonomi/detay/1951676/default.htm&quot;&gt;karşılıksız kredi kartı (Tarjeta Black) skandalı&lt;/a&gt; ortaya
+çıkmıştı.&lt;/p&gt;
+
+&lt;p&gt;Podemos’a yönelik Türkiye’deki yoğun ilgiye ve nedenine geri dönersek; bütün
+farklılıklarının ötesinde, Podemos’un SYRIZA ile olan en önemli benzerliği
+ekonomik programı. Ekonomi profesörleri Vicenç Navarro ve Juan Torres López
+tarafından yazılan ekonomi programı en temelde kemer sıkma politikaları
+karşıtı. Ayrıca bu program -daha önceden ilan edilen radikal değişikliklerin
+tümünü barındırmasa da- nihai olarak sermayenin geniş kitlelere dağıtılmasını
+sağlayacak, 21’inci yüzyıla uygun, [ekolojik Keynesçi][keyneysian] bir 
+politikayı öneriyor.&lt;/p&gt;
+
+&lt;p&gt;Kısacası medyatik olarak güçlü ve örgüt yapısı merkezî Podemos’un kemer sıkma
+karşıtlığı, anketlerdeki başarısının sebeplerinden sadece biri. Partinin asıl
+başarısı ise ülkesinin yakın geçmişindeki sokak hareketi deneyim birikimini
+doğru ve etkili bir şekilde parlamentarist mücadeleye katabilmiş olması. Olası
+bir Podemos iktidarının Avrupa ölçeğinde yaratacağı sarsıntı, SYRIZA’dan sonra
+zincire yeni yeni halkaların eklenmesine yol açacak mı göreceğiz. Ancak bu
+olasılığın öncesinde, Podemos’un önündeki bir sonraki sınav, bu yıl
+gerçekleşecek olan otonomi (eyalet) seçimleri olacak.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2015-02-27-podemos-bilinmeyener/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2015-02-27-podemos-bilinmeyener/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>Devletin Resmi Pornografisi</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;p&gt;&lt;em&gt;Bu yazı ilk olarak 28 Şubat 2013’te Bianet’te yayınlandı. 
+&lt;a href=&quot;https://bianet.org/bianet/bianet/144730-devletin-resmi-pornografisi&quot;&gt;link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Son dönemde edebiyat ders kitaplarının bağımsız gözler tarafından incelenmesi
+ vesilesiyle, içeriklerinde girilen metin tasarruflarını öğrenme şansımız oldu. 
+&lt;a href=&quot;https://www.evrensel.net/haber/43770/yunus-emreye-sansur&quot;&gt;Yunus Emre&lt;/a&gt;, &lt;a href=&quot;https://www.evrensel.net/haber/44570/kaygusuza-da-sansur&quot;&gt;Kaygusuz Abdal&lt;/a&gt;, &lt;a href=&quot;https://t24.com.tr/haber/lise-son-sinif-kitabinda-edip-cansever-siir-sansurlendi,223521&quot;&gt;Edip Cansever&lt;/a&gt;, 
+ve &lt;a href=&quot;https://www.evrensel.net/haber/49582/sansur-sirasi-melih-cevdet-andayda&quot;&gt;Melih Cevdet Anday&lt;/a&gt; eserlerine uygulanan sansürlerin yanında son 
+olarak, &lt;a href=&quot;http://www.radikal.com.tr/egitim/cahit-kulebiye-de-sansur-1122975/&quot;&gt;Cahit Külebi’nin&lt;/a&gt; hikaye şiirinde de benzer bir tasarrufa 
+girişildiğini okuduk.&lt;/p&gt;
+
+&lt;p&gt;“Şeker Portakalı” ve “Fareler ve İnsanlar” kitaplarının bir öğretmen
+soruşturmasında söz konusu olmasını da bu resme eklediğimizde sansür
+tartışmalarını tekrar gündeme gelmesi kaçınılmaz. Bu noktada müesses nizamın ne
+olduğu tartışmasının ağırlıkla “muhafazakarlaşma” kavramı ve kültür savaşları
+diskurunun kısır çerçevesinden yürümesi alışılmış bir hale geldi. Ancak bu
+incelemeleri derinleştirmek açısından, bu güne kadar konuşulmayan bir alana
+girmek ve Talim ve Terbiye kurulu’nun tavsiye ettiği eserleri göz ardı etmemek
+gerek. Bunun nedeni listenin kabaca bir incelemesinin bile, MEB’nın ve
+dolayısıyla devletin salt müstehcenliğe karşı olmadığını, aksine kendi mantığına
+göre makbul bir müstehcenliği bizzat dolaşıma soktuğunu ortaya çıkarması.
+Arsızlık ve müstehcenlik sosyal ilişkilerin gözardı edilemez bir parçası iken
+anlaşılan o ki, devlet müstehcenliği tanımlama tekelini kendi eline alarak,
+sansürü de sadece kendi bekası için “kabul edilemez ve tehlikeli” düşünceler
+için işleme koyuluyor.&lt;/p&gt;
+
+&lt;p&gt;Bunun en belirgin örneği, Ömer Seyfettin’in tüm eserlerinde bulunan Beyaz Lâle
+hikayesi&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. MEB Talim ve Terbiye Kurulunca okullara tavsiye edilmiş ve 100
+temel eser listesindeki bu hikaye, 1912 Balkan Savaşı sonrası Serez’e giren
+Bulgar Komitası’nın başındaki Subay Binbaşı Radko’yu ve onun Serez’deki Türkleri
+katletmesini anlatılıyor. Milli değerlerimizi pekiştirmek üzere yazılmış bu
+hikaye, amacını yer yer Bulgarlara karşı nefret söylemi üretecek sertlikteki
+metniyle, zengin Türklerin mallarına el koyulması ve 8 yaşından büyük Türk
+kadınlarının önce tecavüz edilip ardından da öldürülmesi kurgusu üzerinden
+gerçekleştiriyor.&lt;/p&gt;
+
+&lt;p&gt;MEB’nın okullara tavsiye ettiği bu kitabın arızası, sadece fiziksel ve cinsel
+şiddetin varlığını ifade etmesinde değil, aksine bu işkencelerin Marqui de
+Sade’a taş çıkaracak yaratıcılıkla, capcanlı ve derinlikli bir şekilde
+betimlenmesinde. Örneğin soyunmayı reddeden bir Türk kadınının canlı canlı
+yakılmasıyla sonlanan işkenceyi anlatan metin, ardından komitacıların en sevdiği
+işkence şeklinin anlatımı ile devam ediyor:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“(..) bu fantezilerden “canlı çukur” dedikleri en müthişiydi. Evvela yere
+şişman bir kadın yatırıyor. Onun üzerine beğendikleri diğer ikinci bir güzel
+kadını arkası üstü çapraz uzatıyorlardı, bu kadını da ellerinden ayaklarından
+birer kadına tutturuyorlardı. Sonra sıra kendisinin olan komita yaklaşıyor,
+çıplak ve fırlak karnın ta ortasına, göbeğin biraz aşağısına küçük kasaturayı
+saplıyor ve hemen çıkarıyordu. Sonra koyu kırmızı bir kan fışkıran bu küçük
+deliğin üzerinde nefsini körletiyor, zavallı çırpınan, haykıran kadının
+karnında, kanlı barsaklarının arasında, hayvanlığın en şeni, en pis ve çirkin
+ateşlerini söndürüyordu. Karınlanma delik açılan kadınlar hiç yaşamıyorlar,
+bir-iki saat içinde inleye inleye, kıvrana kıvrana ölüveriyorlardi.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ana akım bir yayında yer alamayacak derece pornografik olan bu metnin ruhunu ise
+muhteşem finalinde saklı. Esmer ve kumrallardan sıkılan Radko, Serez’in varlıklı
+bir ailesinin sarışın kızı Lâ’lî’ye sahip olmayı kafasına koyar ve bunu
+gerçekleştirmek üzere önce bütün ailesini öldürtür, mallarına el koyar ve
+ardından malikânelerinde sadece Lâ’lî ya da kendi deyişiyle Lâle’nin kalmasını
+sağlar. Türk ailenin malikanesine giderek Lâle’ye tecavüzüne başlayan Radko’yu
+kötü bir sürpriz beklemektedir:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Ve doğru, Radko’ya dokunmadan, üzerinden atladı. Radko, bu nefis çevikliği
+pek şuh buldu. Onu kollarından tuttu. Sırtından ısırdı, ısırdı. Bırakınca
+Lâ’li sarhoş gibi sallanarak açık pencerenin önüne gitti. Ve bir anda gözle
+görülmeyecek derecede ani bir hareketle orada kayboldu. Sanki uçtu. Aptallaşan
+Radko yataktan fırladı. Pencereye koştu Sarkarak baktı. Aşağısı yeşil
+gölgeler, sık dallar, uzak çiçeklerle girdaplaşan nihayetsiz bir uçurum gibi
+derinleşiyor, koyu ve sık çimenlerin üstünde Lâ’li yüzükoyun yatıyordu.
+Dimağında yakıca, parçalayıcı bir yıldırım çaktı. “Ya öldüyse…” Evet ya
+öldüyse? Bu kadar yaklaştığı, koynuna aldığı, kokladığı, öptüğü, ısırdığı
+hakikat olmuş bir saadet, hayali, yalancı ve eksik bır ihtilaç rüyası gibi
+sönüverecek miydi? Kudurmuş bir heyecanla dondu. Sofaya yürüdü. Merdivenleri
+dörder, beşer atladı. Sapanından kurtulmuş bir çakıl taşı çabukluğuyla ikinci
+ve birinci katlardan geçti. Bahçeye çıktı. Lâ’le’nin üzerine atıldı. Hemen
+arkası üstü çevirdi. Nabızlarını tuttu. Atmıyordu. Eliyle kalbini yokladı.
+Eğildi Kulağını koydu… Dinledi. Hiç çarpmıyordu. Ölmüştü. Ah bu güzel Lâ’li
+kucağından kaçarak ruhunu ölüme vermiş, fakat… Fakat işte hala solmamıştı.
+Taze hayatının, emsalsiz güzelliğinin ulvi ve mehtaptan rengi henüz duruyordu.
+Ve “Soğumadan,” diye mırıldandı, “Soğumadan… Bu paha biçilmez ölü daha
+sıcaktı. Soğumadan… Yıpranmamış aşkının, dokunulmamış kızlığının kim bilir
+ne kadar başka olan müstesna lezzeti bir parça olsun tadılamaz mıydı?
+Düşünmedi. Çabucak soğuyacağından korkuyordu.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Anlayacağınız üzere hikayenin sonu Radko’nun Lâle’yi yukarı geri taşıması ve
+onun ölü bedenine yaptıklarının betimlemesi ile bitiyor. Sonuçta 51 sayfalık
+hikayesine Milliyetçilikten hallice nefret söylemi, çıplaklık, infantisid,
+tecavüz ve vahşi işkence tasvirlerini sıkıştırmayı başaran Seyfettin, unutulmaz
+finalini nekrofili ile yapıyor.&lt;/p&gt;
+
+&lt;p&gt;Bir hatırlatma yapmak gerekirse, “Şeker Portakalı” eserinde şikayet edilen
+boktan, moruk gibi müstehcen kelimeler iken, “Hikaye” şiirinde rahatsızlık
+duyulan ise “öp biraz” dizesiydi. Bunun yanında Ömer Seyfettin’in “hard-core”
+pornografik nüvelere sahip olan eseri, Talim ve Terbiye’nin 100 temel eser
+listesine girebiliyor. Bunun gerçekleşebilmesinin yegane sebebi ise, Beyaz
+Lale’nin Türk milletine uygulanan mezalimi gerçekçi bir şekilde betimleyerek
+“milli duyguları harekete geçirmesi.”&lt;/p&gt;
+
+&lt;p&gt;Anlaşılan o ki, müstehcenlik ve pornografi milli duyguları harekete geçirmek
+için kullanıldığında, okullarda okutulması sadece kabul edilebilir değil,
+okutulması gerekli. Bu açıdan “Şeker Portakalı”nın, ve “Hikaye”nin hedef
+alınmasının sebebi müstehcenlik değil, yoksulların, işçilerin ve köylülerin
+sıkıntılı hayatının betimlenmesi. Muktedirin kontrolü dışındaki bu kültürel
+alan, Bakhtinci bir anlayışla otantik devrimcilerin, sapkın eğlenceleri, arsız
+dilleri ve nizama giremeyen medenileşememiş avam halkın mekanı olduğu için
+iktidar için de bir korku nesnesi.&lt;/p&gt;
+
+&lt;p&gt;Benzer bir paralelliği Google’ın 2012’nin ilk altı ayı için yayınladığı
+Devletlerin “içerik yasaklama talebi” raporunda da görebiliyoruz. Açık ara ile
+bir numara olan Türkiye’nin başlıca iki yasaklama talep gerekçesi “devlet
+eleştirisi,” ve “pornografi.” Devlet aklına göre Ömer Seyfettin’in eserlerindeki
+pornografinin kabul edilebilir olduğunu hesaba kattığımızda, Türkiye’nin
+derdinin salt pornografi ve ahlaksızlık ile olmadığını, aksine makbul olmayan
+dolayısıyla “devlet eleştirisi” ile paralel olan müstehcenlik ile ilintili
+olduğunu kabul etmek gerekiyor.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Bu inceleme için Ömer Seyfettin’in Bilgi Yayınevi’nden çıkmış tüm eserlerinin 10’uncu kitabını kullandım. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 28 Feb 2013 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2013-02-28-resmi-pornografi/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2013-02-28-resmi-pornografi/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+      <item>
+        <title>ABD'den Türkiye'ye &quot;GDO'lu Telgraflar&quot;</title>
+        <description>&lt;link rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot; href=&quot;https://gullabi.github.io/feed.xml&quot; /&gt;
+
+&lt;p&gt;&lt;em&gt;Bu yazı ilk olarak 12 Şubat 2011’de Bianet’te yayınlandı. 
+&lt;a href=&quot;https://bianet.org/biamag/bilim/133975-abd-den-turkiye-ye-gdo-lu-telgraflar&quot;&gt;link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://bianet.org/system/uploads/1/articles/spot_image/000/133/975/original/gdo501.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;WikiLeaks, 2006 yılından bu yana dünya gündeminde iz bırakan birçok skandalı gün ışığına çıkarttı. Bunların arasında “Cablegate” olarak bilinen ABD büyükelçiliklerinde hazırlanmış çeşitli gizlilik seviyesindeki 250.000′in üzerindeki diplomatik telgrafı ele geçirmek ve yayınlamak da var. Telgraflar 2011 Eylül ayının ilk günlerinde yayımlandı.&lt;/p&gt;
+
+&lt;p&gt;Tüm merkezler arasında 7,918 adet telgraf ile ABD’ye en fazla diplomatik telgraf gönderen yer, Ankara Büyükelçiliği.&lt;/p&gt;
+
+&lt;p&gt;Hem Türkiye ile ABD arasındaki temel meselelerin neler olduğuna dair fikir sahibi olmak, hem de halkın bu telgraflardan neler öğrenebileceğine dikkat çekmek amacıyla telgraf arşivinden üç konu seçerek derinlemesine inceledik. Bu üç konu WikiLeaks belgelerinde karşımıza çıkan siyasi perspektifler, ilaç şirketlerinin şekillendirdiği ABD politikasının Türkiye’deki izdüşümleri ve son derece çarpıcı bilgilere ulaştığımız ABD Genetiği Değiştirilmiş Gıdalar (GDO) politikaları ile Türkiye’deki kurumların bunlar karşısındaki tutumu oldu. Bu yazıda GDO konusu ele alınıyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wikileaks.org/cablegate.html#&quot;&gt;Cablegate&lt;/a&gt; telgrafları arasında bu konudaki politikalara dair çarpıcı bilgilere ulaşmak mümkün.&lt;/p&gt;
+
+&lt;p&gt;GDO, genetik mühendisliğinin marifetleri ile değişikliğe uğratılmış, yani normal koşullarda doğada bulunmayan, fakat laboratuar ortamında yaratılmış olan canlıların tümüne verilen isim. Genetiği endüstrinin ihtiyaçlarına göre değiştirilen canlı bir inek olabileceği gibi bir mısır bitkisi ya da bitkilerin gelişiminde rol oynayan bir bakteri de olabilir.&lt;/p&gt;
+
+&lt;p&gt;Genetiğinin değiştirilmesi ile bir canlıda ne tür bir değişikliğin meydana getirilebileceğine çarpıcı ve güncel bir örnek olarak inek sütü yerine insan sütü üreten inekler verilebilir. Bu yazının yayınladığı tarihten sadece birkaç ay önce yapılan bu deneyde insan genleri ile yeniden düzenlenen genomlara sahip mutant ineklerin, inek sütü yerine insan sütü ürettikleri gösterildi.&lt;/p&gt;
+
+&lt;p&gt;Bu uygulamaların ortaya çıkardığı etik kaygılardan bağımsız bir şekilde, doğru şekilde kullanıldığında GDO’ların çok faydalı olabileceğini düşünen bilim insanları da var. Lakin genetiği değiştirilmiş 42 ineğin 26 tanesinin doğumdan hemen sonra, 6 tanesinin ise doğduktan sonraki altı ay içerisinde olmak üzere 32 tanesinin ölmüş olması, bir şeylerin çok dikkatle yeniden değerlendirilmesi gerektiğinin bir göstergesi.&lt;/p&gt;
+
+&lt;p&gt;Bir süredir zaman zaman Türkiye gündemini de meşgul eden konulardan olan GDO’ların hem insan sağlığı hem de doğaya olan etkileri açısından barındırdığı riskler bilimsel anlamda aktif araştırılan konulardan. Halen değerlendirilmekte olan riskler çok geniş bir yelpazeye dağılmış durumda.&lt;/p&gt;
+
+&lt;p&gt;GDO’ların tüketimindeki artışın değerlendirilen ve henüz net bir sonuca bağlanmamış risklerden bazıları şöyle sıralanbilir:&lt;/p&gt;
+
+&lt;p&gt;* Doğrudan ya da dolaylı yollarla kanser ve dejeneratif hastalıkların artmasına sebep olması,&lt;/p&gt;
+
+&lt;p&gt;* Kullanılan teknolojinin süper-virüs evrimi için uygun altyapı oluşturması,&lt;/p&gt;
+
+&lt;p&gt;* Hayvanların -ya da bitkilerin- daha hızlı büyüyüp daha fazla ürün vermesi için tasarlanmış büyüme hormonlarının çoğu durumda hayvanları -ve bitikleri- hastalıklara karşı dirençsiz kılması nedeni ile kullanılan antibiyotiklerin bu hayvanlardan elde edilen mamuller ya da tüketilen bitkiler ile insana geçmesi ve antibiyotiklere karşı dirençli bakterilerin güçlenmesine sebep olması,&lt;/p&gt;
+
+&lt;p&gt;* Birbirinin tam kopyası olan tohumlardan elde edilen ürünlerin insan bedeninin yüz binlerce yıllık yolculuğu esnasında alıştığı varyasyondan uzak oluşu nedeniyle ortaya çıkabilecek kronik alerjilerin ya da doğum kusurlarının artması,&lt;/p&gt;
+
+&lt;p&gt;* Ortalama yaşam süresinin azalması, böceklerin bitkiye zarar vermesini engellemek için tasarlanan ve bitkinin genomuna eklenen genlerden kodlanan proteinlerin insan hücreleri içinde takibi zor toksik özellikler göstermesi,&lt;/p&gt;
+
+&lt;p&gt;* Tarım ürünlerinin besin değerinin düşmesi, diyetin radikal biçimde değişmesine bağlı rahatsızlıkların artması,&lt;/p&gt;
+
+&lt;p&gt;* Ürün artışını sağlaması için kullanılan genetiği değiştirilmiş bakterilerin topraktaki nitrojen dönüşümünden sorumlu mantarları öldürerek doğal ve hassas toprak florasındaki mikrobiyal aktiviteyi sekteye uğratması ve bunun sonucunda toprağın veriminin düşmesi,&lt;/p&gt;
+
+&lt;p&gt;* Genetiği değiştirilmiş canlıların gelişimine ön ayak olabileceği süper-haşereler ve süper-yabani otlar ile faydalı böceklerin, hayvanların ve diğer bitkilerin doğal yaşam koşullarını değiştirmesi,&lt;/p&gt;
+
+&lt;p&gt;* Tohum çeşitliliğini öldürerek geri dönüşü olmayan bir genetik sığlığa yol açması…&lt;/p&gt;
+
+&lt;p&gt;Bunların kimileri çeşitli bilim insanları tarafından risk seviyesinde ortaya atılmış ihtimaller de olsa, genetiği değiştirilmiş gıdaların siyasetçiler ve şirketlerin iddia ettiği kadar güvenli olmadığına dair bilimsel göstergelerde düzenli sayılabilecek bir artış söz konusu.&lt;/p&gt;
+
+&lt;p&gt;Bu konuya şüpheyle yaklaşılmasının önemini gösteren araştırmalardan belki de kamuoyunda en çok yankı bulanlarından birisi, 2005 yılında The Independent’in ele geçirdiği ve haberleştirdiği 1,139 sayfadan oluşan ve genetiği değiştirilmiş mısır ile beslenen farelerin normal mısır ile beslenenlerde gözlemlenmeyen şekilde iç organ yetmezlikleri sonucu öldüğünü gösteren gizli &lt;a href=&quot;http://tinyurl.com/independent-gdo-raporu&quot;&gt;rapor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Benzeri gelişmeler sonucunda Fransa Şubat 2008’de genetiği değiştirilmiş mısır tohumu kullanımını yasaklarken, Avrupa Parlamentosu bu yazının yazıldığı tarihlerden sadece birkaç ay önce (Temmuz 2011) Avrupa Birliği üyesi ülkelere genetiği değiştirilmiş gıdaların topraklarında üretilmesini yasaklama haklarını genişleten bir yasanın kapsamını genişletmeyi oy birliğiyle kabul etti.&lt;/p&gt;
+
+&lt;p&gt;Son derece ironik bir biçimde, yukarıda sözü geçen ve 2005 yılında basına sızmış olan gizli çalışmayı yürüten şirket, genetiği değiştirilmiş mısır tohumlarının dünya çapındaki en büyük üreticilerinden olan Monsanto.&lt;/p&gt;
+
+&lt;p&gt;ABD merkezli çok uluslu bir şirket olan Monsanto, ABD’nin genetiği değiştirilmiş gıda pazarının yüzde 90’ına sahip ve bu alanda dünyanın önde gelen şirketlerinden birisi. Dolayısıyla kamuoyunu genetiği değiştirilmiş ürünlerin sağılıksız olmadığına dair ikna etme konusunda çok büyük bir efor harcıyor.&lt;/p&gt;
+
+&lt;p&gt;Tahmin edebileceğiniz gibi bu eforun içine yukarıdaki gibi raporların sonuçlarını kamuoyundan gizlemek ya da GDO’ların aslında sağlıklı olduğunu iddia eden “aksi yönde bilimsel propaganda” faaliyetleri de giriyor. Amerika’daki siyasi lobicilik için Monsanto’nun sadece 2008 yılında sekiz milyar dolar harcamış olması, hem şirketin büyüklüğü hem de ABD’deki siyasetçiler ile ilişkilerini ne kadar yakın tutmak istediğinin önemli bir göstergesi.&lt;/p&gt;
+
+&lt;p&gt;Fakat mevzunun ne kadar derin olduğunu, Cablegate ile ortaya çıkan raporları takip ettiğimizde anlıyoruz.&lt;/p&gt;
+
+&lt;p&gt;ABD’nin GDO’ların yaygınlaşmasından birden fazla çıkarı var. Biyoteknoloji alanında en gelişmiş ülkelerden birisi olarak, GDO’ların yaygınlaşması ile doğacak talep ABD merkezli çok uluslu şirketler ile karşılanacağı için ekonomik avantajlar, GDO’lara bağımlı ülkelerin sayısının artmasının gıda gibi son derece önemli bir pazarda ABD’ye söz hakkı verecek olması üzerinden doğacak siyasi avantajlar bunlar arasında sayılabilir. Nitekim Fransa’da 2008 yılında hayata geçirilen yasak öncesi gönderilen 2007 tarihli bir &lt;a href=&quot;http://tinyurl.com/07STATE150199&quot;&gt;telgrafta&lt;/a&gt; Fransa’nın bu yönde atacağı bir adımın ABD için maddi kayba, bunun da ötesinde ABD’deki biyoteknoloji endüstrisi için çok büyük bir dezavantaja tekabül edeceğinden açıkça söz ediliyor.&lt;/p&gt;
+
+&lt;p&gt;Fransa 2008 yılında Monsanto’nun ürettiği mısır tohumlarını yasakladıktan sonra, Almanya, Avusturya ve Arnavutluk’un da bu kararda Fransa’yı takip ettiği görülüyor. 2009 yılında ise “bu konuda bir şeyler yapılsın” girişi ile gönderilen bir telgrafta “iyi organize olmuş bir kampanya” nedeniyle GDO’lu mısır tohumunun İspanya’da da yasaklanması ihtimalinin gündemde olduğundan bahsedilirken “eğer &lt;a href=&quot;http://tinyurl.com/09MADRID482&quot;&gt;İspanya&lt;/a&gt; düşerse tüm Avrupa onu takip edebilir” görüşlerine yer veriliyor.&lt;/p&gt;
+
+&lt;p&gt;ABD GDO’lar konusunda o kadar kararlı ki, Avrupa ve gelişmekte olan ülkelerdeki katolikler arasında GDO’lara karşı yaygın olan direnci kırmak için Vatikan’ı ve Papa’yı kullanmak için 2005’ten itibaren lobi faaliyetleri yürütmeye başlamış. &lt;a href=&quot;http://wikileaks.org/cable/2005/08/05VATICAN514.html#&quot;&gt;Telgraflardan&lt;/a&gt; birisinde Vatikan kardinallerinden birisi olan Renato Martino’nun yardımcılarından birisinin Amerikan konsolosluğuna, Martino’nun Irak savaşı ve savaş sonrası ile ilgili eleştirilerini telafi etmek ve ABD hükümeti ile iyi ilişkilerini sürdürmek için GDO’lar konusunda olumlu bir tavır takınacağını dile getiriyor.&lt;/p&gt;
+
+&lt;p&gt;ABD’nin tek cephesi Avrupa değil. Telgraflar, ABD dışişlerinin GDO politikalarının ABD merkezli şirketlerin pazara girmesini engelleyecek yasalar çıkarmalarını engellemek üzerine yoğunlaştığını ve diplomatik olarak baskı yapılan ülkelerin geniş bir coğrafyaya dağılmış olduğunu gösteriyor.&lt;/p&gt;
+
+&lt;p&gt;Bu telgraflar arasında dünyanın bir numaralı pirinç ihracatçısı olan &lt;a href=&quot;http://tinyurl.com/10BANGKOK111&quot;&gt;Tayland&lt;/a&gt;‘daki biyoteknoloji ve GDO karşıtlığını kırma girişimlerine, &lt;a href=&quot;http://tinyurl.com/10PRETORIA75&quot;&gt;Güney Afrika&lt;/a&gt;‘da ABD çıkışlı GDO ürünlerinin kabul görmesi sürecini riske atan koşulların ortadan kaldırılması için atılan adımlara, ABD pirinç üreticilerinin Batı Afrika’daki en büyük marketi olan &lt;a href=&quot;http://tinyurl.com/10ACCRA58&quot;&gt;Gana&lt;/a&gt;‘yı GDO’lu ürünlere sıcak bakan düzenlemeleri hayata geçirmeye ikna etmek için yürütülmesi planlanan diplomatik çalışmalara, Dr. Chassy’nin GDO’ya soğuk bakan &lt;a href=&quot;http://tinyurl.com/05MILAN532&quot;&gt;İtalya’&lt;/a&gt;da gerçekleştirdiği GDO propagandasının medyadaki yansımalarına ve daha nicesine rastlamak mümkün.&lt;/p&gt;
+
+&lt;p&gt;Edelman: “Türkiye’deki cahil kitleler”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Bununla birlikte ABD’nin GDO stratejisinin Türkiye çehresi, çok daha ilginç bir hikaye ortaya koymakta.&lt;/p&gt;
+
+&lt;p&gt;Genel olarak telgraflar, ABD’nin GDO’yu kabul ettirme stratejilerinden birisinin ‘hedef’ ülke içerisindeki GDO karşıtı grupların tespit edilmesi, ve Mosanto gibi şirketlerin ülkeye girmesine mani olan direnişi kırmak için kamuoyunun GDO’nun yararlarına dair bilgilendirilmesi olarak çizildiği anlaşılıyor. Bu genel strateji ülkeden ülkeye farklılıklar gösterebiliyor. Eğer söz konusu karşıt grup bilim insanları ise, İtalya’da yapıldığı gibi GDO taraftarı bilim insanları konferanslara gönderiliyor. Eğer söz konusu halk ise, bu sefer de işin içine halkla ilişkiler giriyor.&lt;/p&gt;
+
+&lt;p&gt;Şubat 2005’te ABD büyükelçisi Edelman’ın Ankara’dan gönderdiği telgrafta “Türkiye’deki cahil kitlelerin” bilimsellikten uzak olduğuna dikkat çekildikten sonra büyükelçiliğin Türkiye’deki ilgili paydaşlara güncel ve bilimsel bilgi sunmaya devam edeceği, ayrıca kamunun “biyoteknolojinin ‘olumlu’ yönleri” konusunda bilgilendirilmesi için &lt;a href=&quot;http://tinyurl.com/05ANKARA862&quot;&gt;Bilim ve Teknik&lt;/a&gt; dergisi ile bağlantıya geçileceği söyleniyor. Bu telgrafın ardından, Eylül 2005 tarihli bir &lt;a href=&quot;http://tinyurl.com/05ANKARA5425&quot;&gt;telgrafta&lt;/a&gt; “bütün bilimsel verilere rağmen GDO’ların güvenli olmadığına inanan kamu”nun fikrini değiştirmesi için İllinois Üniversitesi’nde bir mikrobiyolog olan Dr. Bruce Chassy’nin Türkiye’de çeşitli üniversiteleri ziyaretinin makam tarafından ayarlandığını okuyoruz. Chassy’nin ziyaretlerinde karşılaştığı tepkilerden ve bunların gerçeklere ne kadar aykırı olduğundan bahsederek devam eden telgraf, GDO karşıtı gruplardan yakınırken sağlık konusundaki eleştirilerin temelsizliğinden dert yanıyor. Telgrafın sonunda ise GDO’ların toplum ve devlet nezdinde kabul edilmemesinin nedeninin ‘ideolojik’ olduğu ortaya atılıyor.&lt;/p&gt;
+
+&lt;p&gt;Telgraf, &lt;a href=&quot;http://tinyurl.com/chassy-monsanto-iliskisi&quot;&gt;Dr. Chassy&lt;/a&gt;‘nin Türkiye ziyaretinin planlı olduğunu açıkça ortaya koyuyor. Aynı zamanda bu görev için Dr. Chassy’nin seçilmesi de bir rastlantı değil. Zira kendisi gıda şirketlerinin maddi olarak desteklediği araştırmalar yürütmüş ve birçok kez Monsanto ve benzeri GDO şirketlerine seminerler vermiş bir isim. Hazırladığı GDO yanlısı raporlarda bilimsel verileri çarpıtarak yanlış iddiaları doğru ve bilimselmişçesine sunduğu &lt;a href=&quot;http://tinyurl.com/chassy-propaganda&quot;&gt;belgelenmiş&lt;/a&gt; olan Dr. Chassy, kendisine yöneltilen “GDO’lu gıdalar güvenli mi” sorusuna “kesinlikle organik gıdalardan daha güvenli” şeklinde yanıt verebilen, bilim insanı kimliği ile yaptığı açıklamalarla bizzat biyoteknoloji şirketlerinin propagandasını aklayan bir kişi.&lt;/p&gt;
+
+&lt;p&gt;Bilim ve Teknik’te GDO propagandası&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Geri dönüp Cablegate telgraflarında rastladıklarımız paralelinde ülke gündemine tekrar göz gezdirdiğimizde son derece çarpıcı bir bilgiye ulaşıyor ve Dr. Chassy’nin Şubat 2005’te gönderilen telgrafta önerildiği gibi &lt;a href=&quot;http://tinyurl.com/bilim-teknik&quot;&gt;Bilim ve Teknik&lt;/a&gt; dergisine bir röportaj verdiğini görüyoruz ().&lt;/p&gt;
+
+&lt;p&gt;Bilim ve Teknik’in Kasım 2005 sayısında yayınlanan bu röportaj kendi başına gözden kaçabilecekken, Cablegate bu hadisenin ABD’nin GDO ve besin sektörü ile ilgili halkla ilişkiler stratejisiyle bağlantılı olduğunu göstermekle kalmıyor, aynı zamanda Bilim ve Teknik dergisinin ne kadar kolay bir biçimde çok uluslu şirketlerin çıkarları doğrultusunda Türkiye’deki kamunun ve bilim insanlarının fikirlerini değiştirmek için kullanılabildiğini gözler önüne seriyor. Türkiye’nin yegane bilim kurumunun, ismiyle kamuda yılların güvenilirliğini çağrıştıran dergisi aracılığıyla, güvenliği konusunda bilimsel bir uzlaşmaya ulaşılmamış bir teknolojinin üzerindeki şüphelerin aklama derecesinde kaldırılması amaçlanan bir operasyonun aleti olduğunu görüyoruz.&lt;/p&gt;
+
+&lt;p&gt;Yine yukarıda bahsi geçen &lt;a href=&quot;http://tinyurl.com/05ANKARA5425&quot;&gt;05ANKARA5425&lt;/a&gt; numaralı telgrafta, Dr. Bruce Chassy’nin 10-11 Eylül 2005 tarihinde Sabancı Üniversitesi’nde gerçekleşmiş olan Tarımsal Biyoteknoloji Sempozyumu’na olan katılımı ve buradaki tartışmaların bir raporu sunulmuş. Ancak Dr. Chassy’nin Türkiye rotası Sabancı Üniversitesi ve Bilim ve Teknik dergisi ile sınırlı değil.&lt;/p&gt;
+
+&lt;p&gt;İnternette yapılan bir tarama Dr. Chassy’nin aynı dönemde birçok üniversiteyi ziyaret ederek, GDO’lar ile ilgili seminerler verdiğini gösteriyor. İstanbul’dan sonra İzmir, Ankara ve Adana’yı ziyaret eden Chassy, gezisinin Ankara ayağında aynı zamanda Anadolu Ajansına “Genetiğiyle oynanmış gıdalar zararlı değil” başlığıyla da &lt;a href=&quot;http://tinyurl.com/chassy-aa&quot;&gt;haber&lt;/a&gt; olmuş. Chassy’nin o dönemde gerçekleştirdiği ziyaretlerin bir listesi şöyle:&lt;/p&gt;
+
+&lt;p&gt;10-11 Eylül 2005, Sabancı Üniversitesi, &lt;a href=&quot;http://tinyurl.com/chassy-sabanci&quot;&gt;Tarımsal Biyoteknoloji Sempozyumu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;12 Eylül 2005, Ege Üniversitesi Ziraat Fakültesi, &lt;a href=&quot;http://tinyurl.com/chassy-ege&quot;&gt;Tarım Biyoteknolojisindeki Son Gelişmeler Konferansı&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;13 Eylül 2005, Ankara Üniversitesi Biyoteknoloji Merkezi, GDO’lar İçin Biyoteknoloji Kullanımı: &lt;a href=&quot;http://arsiv.ankara.edu.tr/yazi.php?yad=3902&quot;&gt;Mitler ve Gerçekler&lt;/a&gt; (Anadolu Ajansı da haber olarak geçmiş).&lt;/p&gt;
+
+&lt;p&gt;15 Eylül 2005, Çukurova Üniversitesi Ziraat Fakültesi, &lt;a href=&quot;http://tinyurl.com/chassy-cukurova&quot;&gt;Transgenik Organizma Üretiminde Biyoteknoloji Kullanımı&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Independent’ın ortaya çıkardığı raporun Mayıs 2005’te yayınlanmış olması ve sadece birkaç ay sonra Dr. Chassy’nin Türkiye’ye gelerek GDO ile ilgili ortaya atılan sağlık çekincelerinin gerçek olmadığına dair iddiaları, çok uluslu şirket güdümlü ABD biyoteknoloji politikasının azmi ve acımasızlığının bir göstergesi.&lt;/p&gt;
+
+&lt;p&gt;GDO’lar ile ilgili kamudaki bilgi savaşlarından yakınan Dr. Bruce Chassy’nin GDO’lu tohumları bilimsel aklama çalışmalarına tepki göstermek bir yana, bu propagandaya alet olan medyası, üniversiteleri ve bilim kurumu, GDO’lu ürünleri verilen &lt;a href=&quot;http://tinyurl.com/tarim-rusvet&quot;&gt;rüşvetler&lt;/a&gt; karşılığında denetlenmeden ülke markete girişine olanak sağlayan Tarım Bakanlığı yetkilileri ile Türkiye, devleti, bürokratlarını ve temsil ettikleri halkı bilimsel açıdan cahil ve geri kafalı olarak resmeden ABD telgraflarını bir anlamda haklı çıkardığına şahit oluyoruz.&lt;/p&gt;
+
+&lt;p&gt;Dr. Bruce Chassy’nin neredeyse her demecinde takındığı bilimsellikten uzak reklamcı tavır, onun bir eksiği değil, bilakis bir özelliği. Nitekim devletin politika yapıcılarının şirket çıkarları uğruna kamu aleyhinde kararlar alabilmelerini kolaylaştıran yegane araçlardan birisi de iktidara gömülü organik bilim insanları. Dr. Chassy’nin ABD biyoteknoloji politikalarının kamu nezdinde kabul edilebilir noktaya getirilmesinde bir aracı olduğunu anladığımızda, şüphesiz onun Bilim ve Teknik dergisine verdiği röportajı incelemek ABD’nin tarım politikası söylemini anlamak açısından çok yol gösterici bir hal alıyor.&lt;/p&gt;
+
+&lt;p&gt;***&lt;/p&gt;
+
+&lt;p&gt;Monsanto ile ilgili gündem yaratmış bir diğer konu da patentine sahip oldukları ‘terminatör tohum’ teknolojisi.&lt;/p&gt;
+
+&lt;p&gt;Amerikan Tarım Bakanlığı ve Tarımsal Araştırma Ajansı’nın (Agricultural Research Sevice) ortaklığıyla geliştirilen ve 90’larda patentlenen bu teknoloji, genetiği değiştirilmiş olan tohumlarının tek kullanımlık olmasını garantiliyor. Bu yolla, GDO’lu ürünlerin tohumlarının tek tedarikçisi olması garanti altına alınmış ve sektörde tekelleşmenin, müşteri tarafında ise bağımlılığın önü açılmış oluyor.&lt;/p&gt;
+
+&lt;p&gt;Terminatör tohumların tarihine baktığımızda Monsanto’nun terminatör tohum kullanmayacağını açıkladığına rastlıyoruz. Dikkatle incelendiğinde, bu kararın arkasında pazarın ihtiyaçları ve pazarın doğasından ziyade çeşitli sivil toplum kuruluşlarının, yerli çiftçilerin ve çeşitli ülkelerin bu teknolojiye direnişinin olduğunu görmek mümkün. Özellikle tarım sektörü çok büyük ve yoksul olan Brezilya ve Hindistan’daki hareketler, Monsanto’nun bu yönde bir geri adım atamasındaki en önemli &lt;a href=&quot;http://tinyurl.com/monsanto-terminator&quot;&gt;etkenlerden&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Öte yandan Monsanto’nun bu kararı terminatör tohum teknolojisinin hiçbir surette kullanılmayacağı anlamına gelmediği gibi, Monsanto çiftçilere imzalattığı fikri mülkiyet hakkı sözleşmeleriyle zaten tohum imhası gerekliliğini yasal bir yolla halletmiş bulunuyor. Bir yandan canlı organizmaların patentlenmesi gibi tartışmalı bir pratiğin sonucu olan GDO’lu tohumlar, diğer yandan kısıtlayıcı fikri mülkiyet sözleşmeleriyle tarım sektörünü sıkı bir kontrol altında tutmanın aracı oluveriyorlar.&lt;/p&gt;
+
+&lt;p&gt;Tohum saklama pratiklerinin şirketlerin eliyle yasaklanması ve Monsanto gibi şirketlerin tarım piyasasını kontrolü, genel olarak besin hakkının gaspı perspektifinden değerlendirilmeli. Bu konudaki en çarpıcı eleştiri, Birleşmiş Milletler Genel Asamblesi’nde besin hakkı Özel Raportörü &lt;a href=&quot;http://www.un.org/apps/news/story.asp?NewsID=38782&amp;amp;Cr=Mexico&amp;amp;Cr1&quot;&gt;Olivier de Schutter&lt;/a&gt; tarafından dillendirilmiş. Bu rapora göre fikri mülkiyet hakları sadece yoksul çiftçilerin hayatı idame şartlarını ellerinden almakla kalmıyor, aynı zamanda da besin fiyatlarını da tırmandırıyor.&lt;/p&gt;
+
+&lt;p&gt;Çok uluslu şirketlerin tohum patentlerinin yol açtığı sorunlar bir kaç ana başlık altında toplanıyor. Bunlardan ilki yoksul çiftçilerin maddi olarak tohumlara ulaşım sıkıntısı ve bu nedenle besine yoksul kesimlerin ulaşımının da zorlaşması. Bir diğer sorun ise fikri mülkiyet hakları sayesinde edilen karların araştırma geliştirme çalışmalarının devamını sağlayacağı iddiası. BM raporuna göre, şirketlerin yüksek kar getirecek gelişmiş ülkelerin tükettiği hasatların tohumlarına yönelmeleri, besin sıkıntısı yaşayan güney ülkelerinin ihtiyaç duyduğu ürünlerin araştırmaların yapılmamasına bu nedenle de besine ulaşım hakkına olumlu herhangi bir katkısı olmamasına yol açmakta.&lt;/p&gt;
+
+&lt;p&gt;Son bir konu da, tarım biyoteknolojisi alanından canlı varlıkların patentlenebilmesi imkanının doğması vesilesiyle, belirli tohumların sermayedar şirketin mülkiyeti haline gelebilmesi ve diğer şirketler veyahut bağımsız araştırmacılar tarafından tedrici bir araştırma konusu olmalarının engellenme riskinin ortaya çıkmış olması. Dolayısıyla bu bilgilerle konuyu tekrar değerlendirdiğimizde, daha önce bahsettiğimiz sağlık risklerini bir kenara bıraktığımız durumda dahi, GDO’lu tohumların ve ürünlerin şirketlerin söz verildiği gibi besin sorununu çözmesini beklemenin doğru olmadığı sonucuna ulaşıyoruz.&lt;/p&gt;
+
+&lt;p&gt;Velhasılı, GDO’lu tohumların elimizde olan telgraflardan Türkiye macerasını incelediğimizde kapitalizmin krizlerinin çok kritik bir kesişim noktası ile karşılaşıyoruz. GDO teknolojisinin özünde doğa ve canlılar üzerinde kurulan tahakkümü yatıyor. GDO’ların kullanımının hem insanlara, hem de doğrudan ve dolaylı olarak diğer canlılara ciddi zararlar vermesi olasılığı halen bilim çevrelerince tartışılan konular arasında yer alırken, bu gerçeğin kâr güdüsü ile yok sayıldığına ve inkâr edildiğine şahit oluyoruz.&lt;/p&gt;
+
+&lt;p&gt;Bu ‘kamuoyu şekillendirilmesi’ harekatının neferleri olarak ise karşımıza şirket çıkarlarını bir bilim insanı olarak sahip oldukları sorumluluğun önüne koymakta tereddüt etmeyen isimler çıkıyor. Bilim insanı kimliklerinin sağladığı nesnellik kalkanının ardında, sermayeye gömülü olarak kitleleri iknaya ve iktidarı aklamaya girişen organik aydınların varlığı, bilim kurumlarının artık “kamu yararına bilgi kullanımı” prensibini ihlal ettiklerine rastlıyoruz.&lt;/p&gt;
+
+&lt;p&gt;WikiLeaks’in bu konuda bizlere sunduğu hizmet, tam olarak kamu yararı için ihtiyaç duyulan bilgi cinsinden. Bu bağlamda Cablegate’in GDO çehresi, bilgiye serbest erişimin bir lüks değil, kamunun kendi sağlığını ve refahını ilgilendiren konularda özgür olarak karar vermek için ihtiyaç duyduğu asgari gereklilik olduğunu açık ve seçik bir biçimde ortaya koyuyor. (AME-BK/HK)&lt;/p&gt;
+
+&lt;p&gt;* Wikileaks belgelerini inceleyen A. Murat Eren ve Baybars Külebi’nin Cablegate belgelerinde AKP hükümetinin siyasi çizgisi ve Amerikan ilaç firmalarının çıkarları doğrultusunda Türkiye’de yapılan çalışmaları da kapsayan geniş analize &lt;a href=&quot;http://subjektif.org/2011/10/wikileaks-incelemesi/&quot;&gt;subjektif.org&lt;/a&gt; adresinden ulaşabilirsiniz.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Nov 2011 00:00:00 +0000</pubDate>
+        <link>https://gullabi.github.io/in-media/tr/2011-11-12-cablegate/</link>
+        <guid isPermaLink="true">https://gullabi.github.io/in-media/tr/2011-11-12-cablegate/</guid>
+        
+        
+        <category>in-media</category>
+        
+        <category>tr</category>
+        
+      </item>
+    
+  </channel>
+</rss>
