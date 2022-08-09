@@ -51,7 +51,7 @@ logo:                  /assets/icons/kelle.png #icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Baybars Külebi
-  email:               bkulebi@collectivat.cat
+  email:               baybars.kulebi@bsc.es
   # Used by `jekyll-seo-tag`:
   twitter:             gullabi
 

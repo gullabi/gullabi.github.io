@@ -6,7 +6,8 @@ permalink: /hakkında/
 
 # Hakkında
 
-Ben bir veri araştırmacısı ve işçi kooperatifi [Col·lectivaT][coop]'ın kurucularından biriyim.
+Veri araştırmacısı ve konuşma teknolojieri bazlı ürün/proje yöneticiliği yapıyorum.
+işçi kooperatifi [Col·lectivaT][coop]'ın kurucularından biriyim ancak şu an Barcelona Supercomputing Center'da çalışıyorum.
 Bu aralar ana çalışma alanım konuşma teknolojileri ve doğal dil işleme.
 Burada hem güncel ve geçmiş [bilimsel][science] çalışmalarımla ilgili bilgiye, 
 hem de [medyada][in-media] makale ya da mülakat olarak yayınlanmış içeriklerime ulaşabilirsiniz.

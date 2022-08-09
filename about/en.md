@@ -6,8 +6,10 @@ permalink: /about/
 
 # About
 
-I am a data scientist and one of the co-founders of the workers collective [Col·lectivaT][coop].
-Currently I work mostly on speech technologies and natural language processing.
+I am a technical product/project manager specialized in speech technologies.
+I was one of the co-founders of the workers collective [Col·lectivaT][coop], and 
+currently I work for Barcelona Supercomputing Center as a project lead for the 
+speech technologies of the project AINA. 
 Here you can find further information about my current and past
 [scientific work][science] and my appearences in the [media][in-media] in the 
 article or interview format.
@@ -15,6 +17,7 @@ article or interview format.
 I also do [podcasts](/podcast) (in Turkish) about history of science and social movements.
 
 [coop]: https://collectivat.cat
+[bsc]: https://www.bsc.es/
 [science]: /science/
 [podcast]: /podcast/
 [in-media]: /in-media/
