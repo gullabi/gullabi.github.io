@@ -9,14 +9,21 @@ permalink: /bilim/
 # Akademi ve sonrası
 
 Astrofizik konusunda Heidelberg Üniversitesinde doktora yaptım. Toplamda altı yıldan fazla araştırmacı olarak çalıştıktan sonra, bilişimci olarak endüstride çalışmaya başladım.
-Şu an veri araştırmacısı ve mühendisi olarak, kurucusu da olduğum [Col·lectivaT][coop] kooperatifinde çalışıyorum. Yaptıklarımın detayları için [CV](/assets/bkulebi_cv_en.pdf)me gözatabilirsiniz.
+Şu an [Barselona Süper Bilgisayar Merkezi (BSC-CNS)][bsc]'nde Ziyaretçi Araştırmacı ve [Galtea AI][galtea]'nin kurucu ortağı ve CTO'suyum.
+Yaptıklarımın detayları için [CV](/assets/bkulebi_cv_en.pdf)me gözatabilirsiniz.
 
-## Hesaplamalı dilbilim
-[Col·lectivat](https://collectivat.cat)'taki işimin önemli bir kısmı da dil teknolojilerini hem bilişimciler hem de genel halk için daha erişilebilir hale getirmek. Katalan Hükümeti'nin (Generalitat) desteğiyle, halka açık kaynaklardan derleyerek 520 saatten fazla Katalanca konuşma külliyatı oluşturduk. Tüm veriler, dil modelleri ve akustik modeller [web sitemizde](https://collectivat.cat/asr) açık lisanslarla indirilebilir. 
+## Konuşma Teknolojileri
+BSC'deki çalışmalarım; az kaynaklı ve azınlık dilleri için konuşma teknolojilerini daha erişilebilir kılmaya,
+büyük ölçekli konuşma külliyatları ve ses sentez sistemleri geliştirmeye odaklanmaktadır.
 
 ### İlgili makaleler
+ * Külebi, B.; Armentano-Oller, C.; Rodriguez-Penagos, C.; Villegas, M., 2022, _ParlamentParla: A Large Catalan Parliamentary Speech Corpus_, [link](https://aclanthology.org/2022.lrec-1.168/)
+ * García-Perera, L. F.; ve diğerleri; Külebi, B.; ve diğerleri, 2024, _ILENIA: A Spanish Language Technologies Project to Generate Speech Resources for the Official Languages of Spain_, Proc. IberSPEECH 2024
  * Külebi, B., Öktem, A., Peiró-Lilja, A., Pascual, S., Farrús, M., 2020, _CATOTRON — A Neural Text-to-Speech System in Catalan_, Proc. Interspeech 2020, 490-491, [link](https://www.isca-speech.org/archive/interspeech_2020/kulebi20_interspeech.html)
  * Külebi, B.; Öktem, A., 2018, _Building an Open Source Automatic Speech Recognition System for Catalan_, Proc. IberSPEECH 2018, 25-29, DOI: [10.21437/IberSPEECH.2018-6][asr01].
+
+### Matxa TTS
+Matxa, BSC'de geliştirilen ve tüm başlıca Katalanca lehçe çeşitlerini (merkezi, kuzeybatı, Balear ve Valensiya) kapsayan ilk ses sentez modelidir.
 
 ## Astrofizik
 
@@ -32,7 +39,8 @@ Beyaz Cüceler, yıldızların, özellikle de Güneşimiz gibi yıldızların ya
 
 Diğer makalelerim için [NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/search/q=K%C3%BClebi%2C%20Baybars&sort=date%20desc%2C%20bibcode%20desc)e bakabilirsiniz.
 
-[coop]: https://collectivat.cat
+[bsc]: https://www.bsc.es/
+[galtea]: https://galtea.ai
 [asr01]: http://dx.doi.org/10.21437/IberSPEECH.2018-6
 [astro01]: https://academic.oup.com/mnras/article/431/3/2778/1751349
 [astro02]: https://www.aanda.org/articles/aa/abs/2013/06/aa18842-12/aa18842-12.html

@@ -58,27 +58,27 @@ author:
 # Add links to the sidebar.
 menu:
   en:
-      - title:             Science
-        url:               /science/
-      - title:             In Media
-        url:               /in-media/
-      - title:             Podcast
-        url:               /podcast-en/
-      - title:             Blog
-        url:               /blog-en/
       - title:             About
         url:               /about/
-  tr:
-      - title:             Bilim
-        url:               /bilim/
-      - title:             Medyada
-        url:               /medyada/
-      - title:             Podcast
-        url:               /podcast/
+      - title:             In Media
+        url:               /in-media/
       - title:             Blog
-        url:               /blog-tr/
+        url:               /blog-en/
+      - title:             Podcast
+        url:               /podcast-en/
+      - title:             Science
+        url:               /science/
+  tr:
       - title:             Hakkında
         url:               /hakkında/
+      - title:             Medyada
+        url:               /medyada/
+      - title:             Blog
+        url:               /blog-tr/
+      - title:             Podcast
+        url:               /podcast/
+      - title:             Bilim
+        url:               /bilim/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

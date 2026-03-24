@@ -9,16 +9,21 @@ permalink: /science/
 # Academic overview
 
 I have a PhD from University of Heidelberg, and worked as a researcher for six years before leaving academia to work as a developer.
-Currently I work as a data scientist and tech lead in the workers cooperative [Col·lectivaT][coop].
+Currently I am a Visiting Researcher at [Barcelona Supercomputing Center (BSC-CNS)][bsc] and co-founder and CTO of [Galtea AI][galtea].
 For more details you can take a look at my [CV](/assets/bkulebi_cv_en.pdf).
 
-## Computational Linguistics
-Part of my work in [Col·lectivat](https://collectivat.cat) is to make speech technologies more accessible to both developers and common public.
-With the support of the Catalan Government (Generalitat), we have created a large speech corpus of Catalan, of more than 520 hourse, scraping it from publicly available sources. All the data, language models and acoustic models are available for download with open licences in our [website](https://collectivat.cat/asr).
+## Speech Technologies
+My work at BSC has focused on making speech technologies more accessible for low-resource and minority languages,
+and building large-scale speech corpora and synthesis systems.
 
 ### Relevant articles
+ * Külebi, B.; Armentano-Oller, C.; Rodriguez-Penagos, C.; Villegas, M., 2022, _ParlamentParla: A Large Catalan Parliamentary Speech Corpus_, [link](https://aclanthology.org/2022.lrec-1.168/)
+ * García-Perera, L. F.; Comas-Girbau, E.; Duret-Canales, J.; Külebi, B.; Herranz, A. E.; Peiró, X.; Parra-Atienza, M.; Martínez, E.; Álvarez, O.; Bernabeu-Vidal, M.; Woszczyna, M.; Muñoz-Bueno, R.; Torres, M. I.; Martínez-Hinarejos, C. D., 2024, _ILENIA: A Spanish Language Technologies Project to Generate Speech Resources for the Official Languages of Spain_, Proc. IberSPEECH 2024, [link](https://www.isca-archive.org/iberspeech_2024/garciaperераlf24_iberspeech.html)
  * Külebi, B., Öktem, A., Peiró-Lilja, A., Pascual, S., Farrús, M., 2020, _CATOTRON — A Neural Text-to-Speech System in Catalan_, Proc. Interspeech 2020, 490-491, [link](https://www.isca-speech.org/archive/interspeech_2020/kulebi20_interspeech.html)
  * Külebi, B.; Öktem, A., 2018, _Building an Open Source Automatic Speech Recognition System for Catalan_, Proc. IberSPEECH 2018, 25-29, DOI: [10.21437/IberSPEECH.2018-6][asr01].
+
+### Matxa TTS
+Matxa is the first voice synthesis model covering all major Catalan dialect variants (central, north-western, Balearic, and Valencian), developed at BSC.
 
 ## Astrophysics
 
@@ -37,7 +42,8 @@ Their exotic, magnetic subtypes are of interest for understanding the complex fl
 
 For all of my articles and collaborations you can check [NASA Astrophysics Data System](https://ui.adsabs.harvard.edu/search/q=K%C3%BClebi%2C%20Baybars&sort=date%20desc%2C%20bibcode%20desc).
 
-[coop]: https://collectivat.cat
+[bsc]: https://www.bsc.es/
+[galtea]: https://galtea.ai
 [asr01]: http://dx.doi.org/10.21437/IberSPEECH.2018-6
 [astro01]: https://academic.oup.com/mnras/article/431/3/2778/1751349
 [astro02]: https://www.aanda.org/articles/aa/abs/2013/06/aa18842-12/aa18842-12.html
