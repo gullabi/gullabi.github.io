@@ -10,11 +10,11 @@
 </description>
         <link>https://gullabi.github.io</link>
         <language></language>
-        <managingEditor> ({"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"})</managingEditor>
-        <webMaster> ({"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"})</webMaster>
-        <copyright>2014-2026-03-25 08:12:21 +0000 Baybars Külebi</copyright>
-        <pubDate>Wed, 25 Mar 2026 08:12:21 +0000</pubDate>
-        <lastBuildDate>Wed, 25 Mar 2026 08:12:21 +0000</lastBuildDate>
+        <managingEditor> ({"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"})</managingEditor>
+        <webMaster> ({"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"})</webMaster>
+        <copyright>2014-2026-03-25 13:59:17 +0000 Baybars Külebi</copyright>
+        <pubDate>Wed, 25 Mar 2026 13:59:17 +0000</pubDate>
+        <lastBuildDate>Wed, 25 Mar 2026 13:59:17 +0000</lastBuildDate>
         <image>
             <link>https://gullabi.github.io</link>
             <url>https://gullabi.github.io/images/itunes.png</url>
@@ -22,12 +22,12 @@
         </image>
         <itunes:subtitle>Personal web page of Baybars Külebi
 </itunes:subtitle>
-        <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+        <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"}</itunes:author>
         <itunes:summary>Personal web page of Baybars Külebi
 </itunes:summary>
         <itunes:keywords></itunes:keywords>
         <itunes:owner>
-            <itunes:name>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:name>
+            <itunes:name>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"}</itunes:name>
             <itunes:email></itunes:email>
         </itunes:owner>
         <itunes:image href="https://gullabi.github.io/images/itunes.png" />
@@ -54,7 +54,7 @@
 </description>
                 <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2020-07-15-marksizm-ile-ba%C5%9Far%C4%B1y%C4%B1-yakalay%C4%B1n/</guid>
                 <enclosure url="http:" length="" type="audio/mp3"/>
-                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"}</itunes:author>
                 <itunes:subtitle>Baybars Külebi: Marksizm Ile Başarıyı Yakalayın</itunes:subtitle>
                 <itunes:summary></itunes:summary>
                 <itunes:duration></itunes:duration>
@@ -78,7 +78,7 @@
 </description>
                 <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2020-05-20-dayan%C4%B1%C5%9Fma-ekonomisinin-covid19-krizine-cevab%C4%B1/</guid>
                 <enclosure url="http:" length="" type="audio/mp3"/>
-                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"}</itunes:author>
                 <itunes:subtitle>Baybars Külebi: Dayanışma Ekonomisinin Covid19 Krizine Cevabı</itunes:subtitle>
                 <itunes:summary></itunes:summary>
                 <itunes:duration></itunes:duration>
@@ -116,7 +116,7 @@ tartışmalı kitabı, Şeytan Ayetleri.&lt;/p&gt;
 </description>
                 <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-09-07-kimsenin-okumad%C4%B1%C4%9F%C4%B1-kitap-%C5%9Eeytan-ayetleri/</guid>
                 <enclosure url="http:" length="" type="audio/mp3"/>
-                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"}</itunes:author>
                 <itunes:subtitle>Baybars Külebi: Kimsenin Okumadığı Kitap Şeytan Ayetleri</itunes:subtitle>
                 <itunes:summary></itunes:summary>
                 <itunes:duration></itunes:duration>
@@ -143,7 +143,7 @@ tartıştık.&lt;/p&gt;
 </description>
                 <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-06-02-mukaddime-kriz-ekonomi/</guid>
                 <enclosure url="http:" length="" type="audio/mp3"/>
-                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"}</itunes:author>
                 <itunes:subtitle>Baybars Külebi: Mukaddime Kriz Ekonomi</itunes:subtitle>
                 <itunes:summary></itunes:summary>
                 <itunes:duration></itunes:duration>
@@ -167,7 +167,7 @@ Temel kaynağım ise beklenmedik bir yerden, İmam Gazali’nin Filozofların Tu
 </description>
                 <guid isPermaLink="true">https://gullabi.github.io/podcast/tr/2019-04-12-ilahiyat-ve-astronomi/</guid>
                 <enclosure url="http:" length="" type="audio/mp3"/>
-                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"gullabi"}</itunes:author>
+                <itunes:author>{"name"=>"Baybars Külebi", "email"=>"baybars.kulebi@bsc.es", "twitter"=>"BaybarsKulebi"}</itunes:author>
                 <itunes:subtitle>Baybars Külebi: Ilahiyat Ve Astronomi</itunes:subtitle>
                 <itunes:summary></itunes:summary>
                 <itunes:duration></itunes:duration>
